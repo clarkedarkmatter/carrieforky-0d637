@@ -49,7 +49,7 @@ sections:
         textAlign: center
   - type: ContactSection
     elementId: ''
-    colors: colors-b
+    colors: colors-a
     backgroundSize: full
     title: Join Team Carrie
     text: We look forward to hearing from you.
