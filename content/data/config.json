@@ -110,14 +110,14 @@
             },
             {
                 "type": "Link",
-                "label": "Endorsements",
-                "url": "/endorsements",
+                "label": "FAQ",
+                "url": "/faq",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "FAQ",
-                "url": "/faq",
+                "label": "Endorsements",
+                "url": "/endorsements",
                 "altText": ""
             },
             {
