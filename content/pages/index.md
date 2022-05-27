@@ -14,8 +14,8 @@ sections:
         self:
           textAlign: left
     text: >+
-      *   Carrie Sanders McKeehan loves her hometown of Louisville and has the
-      heart for serving others.
+      *   Carrie Sanders McKeehan loves her **hometown** of Louisville and has
+      the heart for serving others.
 
 
       <!---->
@@ -29,8 +29,8 @@ sections:
       <!---->
 
 
-      *   Carrie can easily achieve better legislative results than her
-      incumbent opponent has and better represent the diverse community in
+      *   Carrie can easily achieve **better legislative results** than her
+      incumbent opponent has and **better represent the diverse community** in
       District 41.
 
     actions:
