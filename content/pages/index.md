@@ -134,6 +134,7 @@ sections:
       controls: true
       aspectRatio: '16:9'
       elementId: ''
+    subtitle: A Servant Leader
   - colors: colors-a
     subtitle: 'Officially Endorsed By:'
     elementId: ''
