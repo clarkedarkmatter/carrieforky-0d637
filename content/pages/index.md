@@ -296,7 +296,7 @@ sections:
           - pl-14
         alignItems: center
         justifyContent: center
-        flexDirection: col
+        flexDirection: row
         borderRadius: xx-large
         boxShadow: xx-large
       title:
