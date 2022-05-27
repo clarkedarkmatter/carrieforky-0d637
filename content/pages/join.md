@@ -66,6 +66,13 @@ sections:
           placeholder: Your name
           isRequired: 'true'
           width: 1/2
+        - type: TextFormControl
+          name: home-address
+          label: Phone
+          hideLabel: false
+          placeholder: Textable phone number
+          isRequired: false
+          width: full
         - type: EmailFormControl
           name: email
           label: Email
@@ -82,13 +89,6 @@ sections:
           name: updates
           label: Sign me up to receive updates
           isRequired: 'false'
-          width: full
-        - type: TextFormControl
-          name: home-address
-          label: Phone
-          hideLabel: false
-          placeholder: Textable phone number
-          isRequired: false
           width: full
       submitLabel: Send Message
     media:
