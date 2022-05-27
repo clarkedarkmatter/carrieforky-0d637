@@ -66,33 +66,6 @@ sections:
       subtitle:
         textAlign: center
   - elementId: ''
-    colors: colors-h
-    quote: >-
-      ## Being part of this team has been incredible. We’ve fill each other’s
-      gaps, and we go to lunch together
-    name: Carla Rogers
-    title: Someone from the team
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-36
-        justifyContent: center
-      quote:
-        textAlign: center
-      name:
-        textAlign: center
-      title:
-        textAlign: center
-    type: QuoteSection
-  - elementId: ''
     colors: colors-a
     images:
       - type: ImageBlock
@@ -125,6 +98,33 @@ sections:
       subtitle:
         textAlign: center
     type: MediaGallerySection
+  - elementId: ''
+    colors: colors-h
+    quote: >-
+      ## Being part of this team has been incredible. We’ve fill each other’s
+      gaps, and we go to lunch together
+    name: Carla Rogers
+    title: Someone from the team
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-36
+        justifyContent: center
+      quote:
+        textAlign: center
+      name:
+        textAlign: center
+      title:
+        textAlign: center
+    type: QuoteSection
   - colors: colors-a
     elementId: ''
     title: Open roles
