@@ -54,7 +54,7 @@ sections:
           width: full
         - type: CheckboxFormControl
           name: updates
-          label: Sign me up to receive updates
+          label: I'll Help Knock On Doors
           isRequired: false
           width: full
         - type: CheckboxFormControl
