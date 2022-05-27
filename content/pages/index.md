@@ -91,10 +91,10 @@ sections:
         height: auto
         width: wide
         margin:
-          - mt-24
-          - mb-24
-          - ml-4
-          - mr-4
+          - mt-14
+          - mb-14
+          - ml-14
+          - mr-14
         padding:
           - pt-8
           - pb-8
