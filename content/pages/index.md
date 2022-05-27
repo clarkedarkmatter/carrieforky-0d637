@@ -203,7 +203,7 @@ sections:
     title: Featured & Endorsed
   - type: FeaturedPeopleSection
     elementId: ''
-    variant: variant-b
+    variant: variant-a
     colors: colors-a
     actions:
       - type: Button
