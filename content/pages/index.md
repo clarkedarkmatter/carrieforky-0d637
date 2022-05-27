@@ -218,6 +218,7 @@ sections:
       - content/data/team/person-ow755rtzo.json
       - content/data/team/hilary-ouse.json
       - content/data/team/person-mxc4udkru.json
+      - content/data/team/person-g38r3ml7y.json
     styles:
       self:
         height: auto
