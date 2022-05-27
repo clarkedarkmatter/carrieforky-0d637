@@ -137,19 +137,19 @@
             },
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "/",
-                "icon": "twitter",
-                "style": "secondary"
-            },
-            {
-                "type": "Social",
                 "altText": "Instagram",
                 "label": "Instagram",
                 "url": "/",
                 "icon": "instagram",
                 "style": "primary"
+            },
+            {
+                "type": "Social",
+                "altText": "Twitter",
+                "label": "Twitter",
+                "url": "/",
+                "icon": "twitter",
+                "style": "secondary"
             }
         ],
         "legalLinks": [
