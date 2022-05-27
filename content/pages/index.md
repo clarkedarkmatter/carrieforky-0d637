@@ -50,7 +50,7 @@ sections:
         justifyContent: flex-start
     badge:
       type: Badge
-      label: 'Kentucky''s '
+      label: Kentucky's 41's District
       elementId: ''
       styles:
         self:
