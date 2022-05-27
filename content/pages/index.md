@@ -256,7 +256,7 @@ sections:
   - type: ContactSection
     colors: colors-a
     backgroundSize: full
-    title: Stay Up To Date On The Issues
+    title: Stay In The Race
     text: >
       Sign up your team today to be the first to try out our new product to
       increase your team’s productivity
