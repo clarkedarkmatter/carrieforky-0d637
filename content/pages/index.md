@@ -17,7 +17,7 @@ sections:
         url: /
         showIcon: true
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
     media:
       type: ImageBlock
       altText: Image alt text
