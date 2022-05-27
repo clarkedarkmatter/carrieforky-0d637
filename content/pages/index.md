@@ -9,7 +9,7 @@ sections:
     subtitle: 'Character, Hope, Freedom.'
     actions:
       - type: Button
-        label: Get Started
+        label: Join The Team
         url: 'https://www.stackbit.com/'
         style: primary
       - type: Link
