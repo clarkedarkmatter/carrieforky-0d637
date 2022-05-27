@@ -123,7 +123,7 @@ sections:
       loop: false
       muted: false
       controls: true
-      aspectRatio: '4:3'
+      aspectRatio: '16:9'
       elementId: ''
   - colors: colors-a
     subtitle: 'Officially Endorsed By:'
