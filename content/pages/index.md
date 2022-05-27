@@ -101,10 +101,10 @@ sections:
         height: auto
         width: wide
         margin:
-          - mt-3
-          - mb-3
-          - ml-3
-          - mr-3
+          - mt-5
+          - mb-5
+          - ml-5
+          - mr-5
         padding:
           - pt-5
           - pb-5
