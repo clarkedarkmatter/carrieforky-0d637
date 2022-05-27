@@ -87,7 +87,7 @@ sections:
           textAlign: left
     actions:
       - type: Button
-        label: Get Started
+        label: Donate To Carrie
         url: /
         style: primary
       - type: Link
