@@ -161,7 +161,7 @@ sections:
     type: FeatureHighlightSection
     media:
       type: VideoBlock
-      title: Title of the video
+      title: Vote Carrie Sanders McKeehan
       url: 'https://www.youtube.com/watch?v=No-H-mBGYYM'
       autoplay: false
       loop: false
