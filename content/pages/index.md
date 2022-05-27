@@ -304,6 +304,16 @@ sections:
         styles:
           self:
             textAlign: center
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
       - type: FeaturedItem
         title: Celebration Cookout & Fundraiser
         text: >-
