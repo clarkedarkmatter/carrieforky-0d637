@@ -205,7 +205,16 @@ sections:
     elementId: ''
     variant: variant-c
     colors: colors-h
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     people:
       - content/data/team/hilary-ouse.json
     styles:
