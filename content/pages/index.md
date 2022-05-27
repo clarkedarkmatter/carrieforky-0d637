@@ -257,7 +257,7 @@ sections:
       - type: Button
         label: Read Full Platform
         altText: ''
-        url: /
+        url: /issues
         showIcon: false
         icon: arrowRight
         iconPosition: right
