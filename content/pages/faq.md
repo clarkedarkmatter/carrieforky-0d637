@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Platform
 layout: PageLayout
 sections:
   - colors: colors-a
