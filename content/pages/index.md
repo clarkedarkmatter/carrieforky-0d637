@@ -268,9 +268,8 @@ sections:
     colors: colors-a
     backgroundSize: inset
     title: Stay In The Race
-    text: >
-      Sign up your team today to be the first to try out our new product to
-      increase your team’s productivity
+    text: |
+      Enter your email to receive updates from the campaign!
     form:
       type: FormBlock
       variant: variant-b
