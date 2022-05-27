@@ -22,8 +22,11 @@ sections:
 
 
       Carrie truly cares about every individual in our community and knows that
-      partisan fighting never accomplishes anything. Carrie Sanders McKeehan can
-      get more done in Frankfort than her opponent.
+      ugly partisan fighting never helps anyone. 
+
+
+      Carrie Sanders McKeehan will get better legislative results and better
+      representation in Frankfort than the incumbent. 
     actions:
       - type: Button
         label: Join My Team
