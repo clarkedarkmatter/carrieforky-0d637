@@ -376,13 +376,6 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - type: TextFormControl
-          name: home-address
-          label: Home address
-          hideLabel: false
-          placeholder: Your home address
-          isRequired: false
-          width: full
       submitLabel: Sign Up
       styles:
         submitLabel:
