@@ -80,7 +80,7 @@ sections:
         url: /
     media:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/Carie-Marie-profile-pic-2.jpg
       altText: Hero image
     styles:
       self:
