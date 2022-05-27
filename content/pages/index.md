@@ -66,7 +66,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: inset
-    title: Why Vote Carrie Sanders McKeehan?
+    title: Why Should You Vote For Carrie Sanders McKeehan?
     text: >
       Learn how top tech companies have learned working remote using our
       product.
