@@ -6,7 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: Carrie Sanders McKeehan
-    subtitle: 'One platform, one community.'
+    subtitle: 'Character, Hope, Freedom.'
     actions:
       - type: Button
         label: Get Started
