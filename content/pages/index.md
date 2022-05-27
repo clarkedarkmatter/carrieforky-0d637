@@ -211,7 +211,7 @@ sections:
       bright, articulate and trustworthy. Kentucky needs her insight, activism
       and commitment in Frankfort."
 
-    name: Johnna Doe
+    name: 'Cecil Blye - Pastor & President, More Grace Ministries, Inc.'
     title: Product Marketing Manager at Acme
     backgroundImage:
       type: ImageBlock
