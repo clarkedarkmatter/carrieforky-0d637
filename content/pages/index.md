@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    title: Carrie Cares.
+    title: Carrie ReallyCares.
     subtitle: ''
     badge:
       label: Why Is Carrie Sanders McKeehan The Right Person For US?
