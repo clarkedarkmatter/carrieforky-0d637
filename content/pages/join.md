@@ -87,7 +87,7 @@ sections:
           name: home-address
           label: Phone
           hideLabel: false
-          placeholder: Your home address
+          placeholder: Phone number
           isRequired: false
           width: full
       submitLabel: Send Message
