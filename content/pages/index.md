@@ -318,10 +318,12 @@ sections:
       - type: FeaturedItem
         title: Meet & Greet
         text: |
-          Sol Aztecas Mexican restaurant 
+          Sol Aztecas Mexican Restaurant
 
           **
           5:30 - 7:00 - June 6**
+
+          **RSVP on Facebook**
         featuredImage:
           type: ImageBlock
           url: /images/focused.svg
