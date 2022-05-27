@@ -39,7 +39,7 @@ sections:
         url: /join
         style: primary
       - type: Link
-        label: On T
+        label: On The Issues
         url: /issues
         icon: arrowRight
         iconPosition: right
