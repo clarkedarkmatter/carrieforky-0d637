@@ -443,7 +443,7 @@ sections:
         width: wide
         margin:
           - mt-5
-          - mb-2
+          - mb-5
           - ml-2
           - mr-2
         padding:
