@@ -31,6 +31,7 @@ sections:
         url: /issues
         icon: arrowRightCircle
         iconPosition: right
+        showIcon: true
     media:
       type: ImageBlock
       url: /images/Carie-Marie-profile-pic-2.jpg
