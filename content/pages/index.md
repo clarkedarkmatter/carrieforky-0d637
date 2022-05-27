@@ -107,7 +107,7 @@ sections:
           - ml-6
           - mr-6
         padding:
-          - pt-6
+          - pt-0
           - pb-0
           - pl-6
           - pr-6
