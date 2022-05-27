@@ -211,7 +211,7 @@ sections:
       bright, articulate and trustworthy. Kentucky needs her insight, activism
       and commitment in Frankfort."
 
-    name: 'Cecil Blye - Pastor & President, More Grace Ministries, Inc.'
+    name: Cecil Blye
     title: Product Marketing Manager at Acme
     backgroundImage:
       type: ImageBlock
