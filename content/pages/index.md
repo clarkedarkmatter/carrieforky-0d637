@@ -126,7 +126,7 @@ sections:
       aspectRatio: '16:9'
       elementId: ''
   - colors: colors-a
-    subtitle: 'Endorsed By:'
+    subtitle: 'Officially Endorsed By:'
     elementId: ''
     images:
       - type: ImageBlock
