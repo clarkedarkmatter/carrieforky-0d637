@@ -284,7 +284,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-a
     elementId: ''
-    title: Hosting & Attends Events
+    title: Hosting & Attending Events
     items:
       - type: FeaturedItem
         title: Weekly Breakfast & Fundraiser
