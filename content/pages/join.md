@@ -44,7 +44,7 @@ sections:
           width: full
         - type: CheckboxFormControl
           name: updates
-          label: Sign me up to receive updates
+          label: I Want A Yard Sign
           isRequired: 'false'
           width: full
         - type: CheckboxFormControl
