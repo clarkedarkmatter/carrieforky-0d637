@@ -207,7 +207,7 @@ sections:
     type: MediaGallerySection
   - colors: colors-f
     elementId: ''
-    title: Carrie On The Issues
+    title: Carrie - On The Issues That Matter
     items:
       - question: What can we do to stop violent crime?
         answer: >
