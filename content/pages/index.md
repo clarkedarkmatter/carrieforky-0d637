@@ -76,7 +76,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: inset
-    title: Why Should You Vote For Carrie Sanders McKeehan?
+    title: Why Is Carrie Running?
     text: >
       Why should you vote for Carrie? Watch the video below to hear more about
       Carrie and her campaign.
