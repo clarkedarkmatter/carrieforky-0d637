@@ -205,7 +205,6 @@ sections:
     elementId: ''
     variant: variant-c
     colors: colors-h
-    title: About us
     actions: []
     people:
       - content/data/team/hilary-ouse.json
