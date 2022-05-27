@@ -206,7 +206,7 @@ sections:
     colors: colors-a
     actions:
       - type: Button
-        label: Learn more
+        label: Read All Endor
         altText: ''
         url: /endorsements
         showIcon: false
