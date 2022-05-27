@@ -205,7 +205,7 @@ sections:
         textAlign: center
     imageSizePx: 271
     type: MediaGallerySection
-    title: Featured
+    title: Featured & Endorsed
   - colors: colors-f
     elementId: ''
     title: Our Community Issues
