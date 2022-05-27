@@ -24,7 +24,7 @@ sections:
     actions:
       - type: Button
         label: Join Team Carrie
-        url: /
+        url: /join
         style: primary
       - type: Link
         label: Learn More
