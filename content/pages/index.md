@@ -125,7 +125,7 @@ sections:
       controls: true
       aspectRatio: '16:9'
       elementId: ''
-  - colors: colors-b
+  - colors: colors-a
     subtitle: 'Endorsed By:'
     elementId: ''
     images:
