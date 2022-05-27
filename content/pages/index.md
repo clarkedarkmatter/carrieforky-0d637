@@ -255,7 +255,7 @@ sections:
         type: Link
         label: See all
   - type: ContactSection
-    colors: colors-f
+    colors: colors-a
     backgroundSize: inset
     title: Get early access
     text: >
