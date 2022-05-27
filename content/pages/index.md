@@ -57,7 +57,7 @@ sections:
           textAlign: left
   - type: HeroSection
     elementId: ''
-    colors: colors-h
+    colors: colors-a
     title: Love where you work
     subtitle: ''
     badge:
