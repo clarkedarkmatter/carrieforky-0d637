@@ -82,7 +82,7 @@ sections:
         url: /
         style: primary
       - type: Link
-        label: Watch Video
+        label: Watch Video On Youtube
         url: /
         showIcon: true
         icon: playCircle
