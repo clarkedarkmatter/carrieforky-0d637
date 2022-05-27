@@ -290,10 +290,10 @@ sections:
           - ml-4
           - mr-4
         padding:
-          - pt-9
-          - pb-9
-          - pr-9
-          - pl-9
+          - pt-10
+          - pb-10
+          - pr-10
+          - pl-10
         alignItems: center
         justifyContent: center
         flexDirection: row
