@@ -32,7 +32,9 @@ sections:
           together is often a distraction, on remote, it could be motivation
       - question: How do you feel about vaccinations?
         answer: |
-          While I encourage all 
+          While I encourage all
+
+          ![](/images/281000194\_125168336815134\_3411034341188653761\_n.jpg)
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distraction, on remote, it
