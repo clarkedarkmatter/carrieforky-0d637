@@ -213,7 +213,7 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
     people:
       - content/data/team/hilary-ouse.json
