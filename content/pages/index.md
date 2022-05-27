@@ -21,9 +21,9 @@ sections:
       community for decades.
 
 
-      This election cycle is more important than ever and with strong momentum
-      for Republicans going into the 2022 midterm season, this could be our
-      chance to FINALLY flip this district.
+      Carrie truly cares about every individual in our community and knows that
+      partisan fighting never accomplishes anything. Carrie Sanders McKeehan can
+      get more done in Frankfort than her opponent.
     actions:
       - type: Button
         label: Join My Team
