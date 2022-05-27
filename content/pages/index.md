@@ -294,10 +294,10 @@ sections:
         height: auto
         width: narrow
         margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+          - mt-14
+          - mb-14
+          - ml-14
+          - mr-14
         padding:
           - pt-14
           - pb-14
