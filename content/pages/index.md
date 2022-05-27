@@ -130,7 +130,7 @@ sections:
     elementId: ''
     images:
       - type: ImageBlock
-        url: /images/apple.svg
+        url: /images/test.png
         altText: Apple
         caption: Apple
       - type: ImageBlock
