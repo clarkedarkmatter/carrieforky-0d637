@@ -256,7 +256,7 @@ sections:
         label: See all
   - type: ContactSection
     colors: colors-a
-    backgroundSize: inset
+    backgroundSize: full
     title: Get early access
     text: >
       Sign up your team today to be the first to try out our new product to
