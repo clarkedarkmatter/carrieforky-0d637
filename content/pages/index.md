@@ -262,7 +262,7 @@ sections:
               - pb-6
               - pr-4
       - type: FeaturedItem
-        title: Smarter
+        title: Pro-Security
         text: >
           Learn how top tech companies have learned working remote using our
           product.
