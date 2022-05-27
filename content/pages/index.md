@@ -284,7 +284,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-a
     elementId: ''
-    title: Carrie Regularly Hosts & Attends Events
+    title: Hosts & Attends Events
     items:
       - type: FeaturedItem
         title: Weekly Breakfast & Fundraiser
