@@ -257,7 +257,7 @@ sections:
         elementId: ''
   - type: ContactSection
     colors: colors-a
-    backgroundSize: full
+    backgroundSize: inset
     title: Stay In The Race
     text: >
       Sign up your team today to be the first to try out our new product to
