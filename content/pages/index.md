@@ -75,7 +75,7 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-a
-    backgroundSize: inset
+    backgroundSize: full
     title: Why Should You Vote For Carrie Sanders McKeehan?
     text: >
       Why should you vote for Carrie? Watch the video below to hear more about
