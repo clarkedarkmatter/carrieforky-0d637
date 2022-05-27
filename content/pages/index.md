@@ -195,7 +195,7 @@ sections:
           could be motivation, At the office, working together is often a
           distraction, on remote, it could be motivation, At the office, working
           together is often a distraction, on remote, it could be motivation
-      - question: How is this different from what we have today?
+      - question: How can we lower the cost of living in our area?
         answer: >-
           At the office, working together is often a distraction, on remote, it
           could be motivation, At the office, working together is often a
