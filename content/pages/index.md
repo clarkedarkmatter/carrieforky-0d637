@@ -270,7 +270,7 @@ sections:
     title: You Can Join Carrie Too!
     items:
       - type: FeaturedItem
-        title: Faster
+        title: Weekly Breakfast and Fundraiser
         text: >-
           Learn how top tech companies have learned working remote using our
           product.
