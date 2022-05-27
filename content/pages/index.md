@@ -61,7 +61,7 @@ sections:
     title: Carrie Cares.
     subtitle: ''
     badge:
-      label: 'Why Is Carrie Sanders McKeehan The '
+      label: Why Is Carrie Sanders McKeehan The Right Person For US?
       elementId: ''
       styles:
         self:
