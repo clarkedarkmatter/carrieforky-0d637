@@ -109,7 +109,7 @@ sections:
         padding:
           - pt-0
           - pb-0
-          - pl-3
+          - pl-4
           - pr-0
         justifyContent: center
         flexDirection: row
