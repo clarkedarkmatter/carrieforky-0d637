@@ -206,7 +206,6 @@ sections:
     variant: variant-c
     colors: colors-h
     title: About us
-    subtitle: Featured people section example
     actions: []
     people:
       - content/data/team/hilary-ouse.json
