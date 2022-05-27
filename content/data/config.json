@@ -128,6 +128,15 @@
         "socialLinks": [
             {
                 "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "facebook",
+                "style": "primary",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
                 "altText": "Twitter",
                 "label": "Twitter",
                 "url": "/",
@@ -141,15 +150,6 @@
                 "url": "/",
                 "icon": "instagram",
                 "style": "primary"
-            },
-            {
-                "type": "Social",
-                "label": "Facebook",
-                "altText": "",
-                "url": "/",
-                "icon": "facebook",
-                "style": "primary",
-                "elementId": ""
             }
         ],
         "legalLinks": [
