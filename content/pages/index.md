@@ -256,7 +256,7 @@ sections:
   - type: ContactSection
     colors: colors-a
     backgroundSize: full
-    title: Get early access
+    title: Stay Up To Date On The Issues
     text: >
       Sign up your team today to be the first to try out our new product to
       increase your team’s productivity
