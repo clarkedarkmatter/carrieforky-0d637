@@ -61,39 +61,6 @@ sections:
       title:
         textAlign: center
     type: QuoteSection
-  - elementId: ''
-    colors: colors-a
-    images:
-      - type: ImageBlock
-        url: /images/careers.jpg
-        altText: People in the meeting room
-      - type: ImageBlock
-        url: /images/post-2.jpg
-        altText: People in the meeting room
-    spacing: 3
-    columns: 2
-    aspectRatio: '1:1'
-    imageSizePx: 400
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    type: MediaGallerySection
   - colors: colors-a
     elementId: ''
     title: Open roles
@@ -199,6 +166,39 @@ sections:
       subtitle:
         textAlign: center
     type: JobsSection
+  - elementId: ''
+    colors: colors-a
+    images:
+      - type: ImageBlock
+        url: /images/careers.jpg
+        altText: People in the meeting room
+      - type: ImageBlock
+        url: /images/post-2.jpg
+        altText: People in the meeting room
+    spacing: 3
+    columns: 2
+    aspectRatio: '1:1'
+    imageSizePx: 400
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+    type: MediaGallerySection
   - elementId: contact-form
     colors: colors-f
     backgroundSize: inset
