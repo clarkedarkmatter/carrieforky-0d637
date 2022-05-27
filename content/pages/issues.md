@@ -6,7 +6,7 @@ sections:
     elementId: ''
     title: 'Carrie Cares About Solving Our Biggest Problems, Sooner!'
     items:
-      - question: How is this different from what we have today?
+      - question: How is the infrastructure?
         answer: >-
           At the office, working together is often a distraction, on remote, it
           could be motivation, At the office, working together is often a
