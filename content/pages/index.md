@@ -102,10 +102,10 @@ sections:
         height: auto
         width: narrow
         margin:
-          - mt-0
+          - mt-6
           - mb-6
-          - ml-0
-          - mr-0
+          - ml-6
+          - mr-6
         padding:
           - pt-6
           - pb-6
