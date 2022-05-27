@@ -307,7 +307,7 @@ sections:
     elementId: ''
     showDate: false
     showAuthor: false
-    showExcerpt: false
+    showExcerpt: true
     variant: variant-a
     actions:
       - type: Button
