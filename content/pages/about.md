@@ -7,7 +7,9 @@ sections:
   - type: TextSection
     colors: colors-a
     title: Who Is Carrie Sanders McKeehan?
-    subtitle: 'Carrie is a mother, a teacher'
+    subtitle: >-
+      Carrie is a teacher at heart. From education to legislation, Carrie
+      Sanders McKeehan is a good choice to represent District 41.
     styles:
       self:
         height: auto
