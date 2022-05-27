@@ -6,7 +6,7 @@ title: About
 sections:
   - type: TextSection
     colors: colors-a
-    title: This in an empty page
+    title: Who Is Carrie Sanders McKeehan?
     subtitle: >-
       Start adding sections by clicking the + button on the page or though the
       sidebar.
