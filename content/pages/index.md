@@ -344,5 +344,5 @@ sections:
     title: Recent Posts
     subtitle: Latest blog posts section example
     colors: colors-h
-    recentCount: 6
+    recentCount: 3
 ---
