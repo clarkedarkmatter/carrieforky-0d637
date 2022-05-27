@@ -189,7 +189,7 @@ sections:
     elementId: ''
     title: On The Issues
     items:
-      - question: How is this different from what we have today?
+      - question: What can we do to stop violent crime?
         answer: >-
           At the office, working together is often a distraction, on remote, it
           could be motivation, At the office, working together is often a
