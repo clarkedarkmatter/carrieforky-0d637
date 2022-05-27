@@ -108,7 +108,7 @@ sections:
       submitLabel: Send Message
     media:
       type: ImageBlock
-      url: /images/careers.jpg
+      url: /images/Carie-Marie-profile-pic-2.jpg
       altText: Contact form image
     styles:
       self:
