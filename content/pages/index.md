@@ -201,56 +201,6 @@ sections:
     imageSizePx: 271
     type: MediaGallerySection
     title: Featured & Endorsed
-  - type: QuoteSection
-    elementId: ''
-    colors: colors-c
-    quote: >
-      ![](/images/277576841\_111378834860751\_6970880646401486249\_n-fb31f573.jpg)
-
-
-      #### "I wholly and wholeheartedly endorse Carrie's candidacy. She is a
-      brilliant problem solver and leader. Her background as a mom and educator
-      uniquely position her to understand family and community needs. She is
-      bright, articulate and trustworthy. Kentucky needs her insight, activism
-      and commitment in Frankfort."
-
-
-      [Read More Endorsements](/endorsements)
-    name: Cecil Blye
-    title: 'Pastor & President, More Grace Ministries, Inc.'
-    backgroundImage:
-      type: ImageBlock
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-2
-          - pb-2
-          - pl-1
-          - pr-1
-        justifyContent: center
-      quote:
-        textAlign: center
-      name:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: center
-      title:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: center
   - colors: colors-f
     elementId: ''
     title: Our Community Issues
