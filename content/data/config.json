@@ -72,7 +72,7 @@
                     "opacity": 100
                 }
             },
-            "type": "",
+            "type": "ImageBlock",
             "url": "/images/oscar.png"
         }
     },
