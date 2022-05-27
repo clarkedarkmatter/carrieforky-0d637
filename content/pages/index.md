@@ -276,7 +276,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-h
     elementId: ''
-    title: Join Carrie At Events
+    title: Carrie Regularly Hosts And Attends Events
     items:
       - type: FeaturedItem
         title: Weekly Breakfast and Fundraiser
