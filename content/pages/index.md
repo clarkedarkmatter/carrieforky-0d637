@@ -83,7 +83,7 @@ sections:
         style: primary
       - type: Link
         label: Watch Video On Youtube
-        url: /
+        url: '/https://www.youtube.com/watch?v=No-H-mBGYYM'
         showIcon: true
         icon: playCircle
         iconPosition: left
