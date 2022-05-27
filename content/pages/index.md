@@ -13,14 +13,16 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >+
-      I'm Carrie Sanders McKeehan.
-       I love my hometown of Louisville and I have had a heart for serving our
-       community for decades. I'm a mom to a teenage son, and a passionate, 
+    text: >
+      Hi. I'm Carrie Sanders McKeehan.
+
+      I love my hometown of Louisville and I have had a heart for serving our
+
+      community for decades. I'm a mom to a teenage son, and a passionate,
+
       special education teacher with [Breckinridge Metropolitan High
       School](https://www.jefferson.kyschools.us/schools/profiles/breckinridge-metropolitan-high)
       in Jefferson County Public Schools.
-
     actions:
       - type: Button
         label: Join My Team
