@@ -276,7 +276,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-h
     elementId: ''
-    title: You Can Join Carrie Too!
+    title: Join Carrie At Events
     items:
       - type: FeaturedItem
         title: Weekly Breakfast and Fundraiser
