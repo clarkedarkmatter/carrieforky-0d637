@@ -1,5 +1,5 @@
 ---
-title: Endorsements
+title: Issues
 layout: PageLayout
 sections:
   - elementId: ''
