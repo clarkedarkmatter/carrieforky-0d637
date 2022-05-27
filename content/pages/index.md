@@ -247,7 +247,7 @@ sections:
     type: FaqSection
     actions:
       - type: Button
-        label: Read Full Platform
+        label: View Full Platform
         altText: ''
         url: /issues
         showIcon: false
