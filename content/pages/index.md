@@ -29,6 +29,7 @@ sections:
       - type: Link
         label: Learn More
         url: /issues
+        icon: arrowRightCircle
     media:
       type: ImageBlock
       url: /images/Carie-Marie-profile-pic-2.jpg
