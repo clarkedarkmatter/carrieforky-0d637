@@ -111,7 +111,7 @@
             {
                 "type": "Link",
                 "label": "Issues",
-                "url": "/faq",
+                "url": "/issues",
                 "altText": ""
             },
             {
