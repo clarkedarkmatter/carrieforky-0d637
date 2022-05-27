@@ -243,7 +243,7 @@ sections:
     variant: variant-a
   - colors: colors-f
     elementId: ''
-    title: On The Issues
+    title: First Priorities
     items:
       - question: What can we do to stop violent crime?
         answer: >
