@@ -61,7 +61,7 @@ sections:
     title: Carrie Cares.
     subtitle: ''
     badge:
-      label: This is the badge
+      label: 'Why Is Carrie Sanders McKeehan The '
       elementId: ''
       styles:
         self:
