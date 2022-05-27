@@ -64,7 +64,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    colors: colors-f
+    colors: colors-b
     backgroundSize: inset
     title: Why Vote Carrie Sanders McKeehan?
     text: >
