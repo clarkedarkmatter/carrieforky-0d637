@@ -475,7 +475,7 @@ sections:
         textAlign: center
     media:
       type: ImageBlock
-      url: /images/277576841_111378834860751_6970880646401486249_n.jpg
+      url: /images/279416457_120955610569740_7053103838962354851_n.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
