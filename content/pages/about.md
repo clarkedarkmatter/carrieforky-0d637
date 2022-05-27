@@ -7,9 +7,7 @@ sections:
   - type: TextSection
     colors: colors-a
     title: Who Is Carrie Sanders McKeehan?
-    subtitle: >-
-      Start adding sections by clicking the + button on the page or though the
-      sidebar.
+    subtitle: 'Carrie is a mother, a teacher'
     styles:
       self:
         height: auto
