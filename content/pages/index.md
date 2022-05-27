@@ -108,7 +108,7 @@ sections:
           - mr-6
         padding:
           - pt-6
-          - pb-6
+          - pb-0
           - pl-6
           - pr-6
         justifyContent: center
