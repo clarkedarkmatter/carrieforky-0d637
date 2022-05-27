@@ -183,7 +183,7 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-    imageSizePx: 225
+    imageSizePx: 271
     type: MediaGallerySection
   - colors: colors-f
     elementId: ''
