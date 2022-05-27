@@ -271,9 +271,9 @@ sections:
     items:
       - type: FeaturedItem
         title: Weekly Breakfast and Fundraiser
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: >
+          Join Carrie and her team EVERY Saturday until the election for a
+          Volunteer Breakfast and Fundraiser.
         featuredImage:
           type: ImageBlock
           url: /images/faster.svg
