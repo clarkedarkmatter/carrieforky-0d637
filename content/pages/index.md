@@ -340,7 +340,7 @@ sections:
       actions:
         justifyContent: center
     title: On The Campaign Trail
-    subtitle: Latest blog posts section example
+    subtitle: Find Out What Carrie's Been Working On.
     colors: colors-f
     recentCount: 3
 ---
