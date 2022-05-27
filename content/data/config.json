@@ -149,7 +149,7 @@
                 "label": "Twitter",
                 "url": "/",
                 "icon": "twitter",
-                "style": "secondary"
+                "style": "primary"
             }
         ],
         "legalLinks": [
