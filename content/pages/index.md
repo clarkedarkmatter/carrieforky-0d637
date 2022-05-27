@@ -207,7 +207,7 @@ sections:
     type: MediaGallerySection
   - colors: colors-f
     elementId: ''
-    title: Carrie - Our Community Issues
+    title: Our Community Issues
     items:
       - question: What can we do to stop violent crime?
         answer: >
