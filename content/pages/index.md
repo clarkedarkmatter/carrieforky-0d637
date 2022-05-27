@@ -102,10 +102,10 @@ sections:
         height: screen
         width: full
         margin:
-          - mt-8
-          - mb-9
-          - ml-9
-          - mr-9
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
         padding:
           - pt-0
           - pb-0
