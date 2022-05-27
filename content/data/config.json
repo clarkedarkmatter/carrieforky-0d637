@@ -110,7 +110,7 @@
             },
             {
                 "type": "Link",
-                "label": "FAQ",
+                "label": "Issues",
                 "url": "/faq",
                 "altText": ""
             },
