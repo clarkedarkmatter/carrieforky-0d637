@@ -77,7 +77,7 @@
         }
     },
     "footer": {
-        "colors": "colors-e",
+        "colors": "colors-f",
         "logo": {
             "altText": "altText of the image",
             "caption": "Caption of the image",
