@@ -306,7 +306,7 @@ sections:
     type: FaqSection
     actions:
       - type: Button
-        label: View Full Platform
+        label: View All Issues
         altText: ''
         url: /issues
         showIcon: false
