@@ -317,9 +317,11 @@ sections:
             textAlign: center
       - type: FeaturedItem
         title: Meet & Greet
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          Sol Aztecas Mexican restaurant 
+
+          **
+          5:30 - 7:00 - June 6**
         featuredImage:
           type: ImageBlock
           url: /images/focused.svg
