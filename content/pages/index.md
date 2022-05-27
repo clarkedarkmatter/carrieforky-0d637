@@ -267,7 +267,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-h
     elementId: ''
-    title: You Can Join Carrie's Team Too.
+    title: You Can Join Carrie Too!
     items:
       - type: FeaturedItem
         title: Faster
