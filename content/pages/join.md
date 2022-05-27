@@ -85,7 +85,7 @@ sections:
           width: full
         - type: TextFormControl
           name: home-address
-          label: Home address
+          label: Phone
           hideLabel: false
           placeholder: Your home address
           isRequired: false
