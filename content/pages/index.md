@@ -22,6 +22,7 @@ sections:
       type: ImageBlock
       altText: Image alt text
       caption: Image caption
+      url: /images/Carie-Marie-profile-pic-2.jpg
     styles:
       self:
         height: auto
