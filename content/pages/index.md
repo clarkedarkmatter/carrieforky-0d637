@@ -97,10 +97,10 @@ sections:
           - ml-9
           - mr-9
         padding:
-          - pt-9
-          - pb-9
-          - pl-9
-          - pr-9
+          - pt-7
+          - pb-7
+          - pl-7
+          - pr-7
         justifyContent: center
         flexDirection: row
         alignItems: center
