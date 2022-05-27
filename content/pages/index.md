@@ -50,7 +50,7 @@ sections:
         justifyContent: flex-start
     badge:
       type: Badge
-      label: This is the badge
+      label: 'Kentucky''s '
       elementId: ''
       styles:
         self:
