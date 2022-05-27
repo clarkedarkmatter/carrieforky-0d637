@@ -46,7 +46,7 @@ sections:
         showIcon: true
     media:
       type: ImageBlock
-      url: /images/278409053_114957624502872_5431963047274145933_n.png
+      url: /images/Carie-Marie-profile-pic-2.jpg
       altText: Hero image
     styles:
       self:
