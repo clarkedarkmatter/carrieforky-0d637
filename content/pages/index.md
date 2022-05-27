@@ -3,59 +3,6 @@ title: Home
 layout: PageLayout
 sections:
   - type: HeroSection
-    elementId: homepage-hero-1
-    colors: colors-a
-    title: Carrie Sanders McKeehan
-    subtitle: 'Character, Hope, Freedom.'
-    actions:
-      - type: Button
-        label: Sign Up For Updates
-        url: 'https://www.stackbit.com/'
-        style: primary
-      - type: Link
-        label: Read Carrie's Platform
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-    media:
-      type: ImageBlock
-      altText: Image alt text
-      caption: Image caption
-      url: /images/Carie-Marie-profile-pic-2.jpg
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-28
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    badge:
-      type: Badge
-      label: Kentucky's 41's District
-      elementId: ''
-      styles:
-        self:
-          textAlign: left
-  - type: HeroSection
     elementId: ''
     colors: colors-a
     title: Carrie Cares.
