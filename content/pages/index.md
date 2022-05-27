@@ -23,7 +23,7 @@ sections:
 
     actions:
       - type: Button
-        label: Sign Up
+        label: Join Team Carrie
         url: /
         style: primary
       - type: Link
