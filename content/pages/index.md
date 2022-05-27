@@ -29,7 +29,7 @@ sections:
       - type: Link
         label: Learn More
         url: /issues
-        icon: chevronRight
+        icon: arrowRight
         iconPosition: right
         showIcon: true
     media:
