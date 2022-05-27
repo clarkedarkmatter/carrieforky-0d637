@@ -284,7 +284,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-a
     elementId: ''
-    title: Hosting & Attending Events
+    title: Events With Carrie
     items:
       - type: FeaturedItem
         title: Weekly Breakfast & Fundraiser
