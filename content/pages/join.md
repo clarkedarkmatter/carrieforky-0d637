@@ -108,4 +108,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    backgroundSize: inset
 ---
