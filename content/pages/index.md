@@ -158,7 +158,7 @@ sections:
         altText: ZCOOL
         caption: ZCOOL
     spacing: 3
-    columns: 6
+    columns: 7
     aspectRatio: auto
     showCaption: false
     enableHover: false
