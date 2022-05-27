@@ -22,7 +22,7 @@ sections:
 
 
       *   Carrie truly cares about every individual in our community and knows
-      that ugly partisan fighting never helps anyone. **Carrie cares about
+      that partisan postering never helps anyone. **Carrie cares about
       solutions.**
 
 
@@ -30,7 +30,7 @@ sections:
 
 
       *   Carrie can easily achieve **better legislative results** than her
-      incumbent opponent has and **better represent the diverse community** in
+      incumbent opponent and can **better represent the diverse community** in
       District 41.
 
     actions:
