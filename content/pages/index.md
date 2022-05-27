@@ -215,8 +215,8 @@ sections:
         style: primary
         elementId: ''
     people:
-      - content/data/team/hilary-ouse.json
       - content/data/team/person-ow755rtzo.json
+      - content/data/team/hilary-ouse.json
     styles:
       self:
         height: auto
