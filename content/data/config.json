@@ -36,7 +36,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Donate",
+                "label": "Donate To Carrie",
                 "url": "/",
                 "altText": "Sign up",
                 "style": "primary"
