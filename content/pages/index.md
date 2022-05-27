@@ -18,11 +18,8 @@ sections:
 
       I love my hometown of Louisville and I have had a heart for serving our
 
-      community for decades. I'm a mom to a teenage son, and a passionate,
-
-      special education teacher with [Breckinridge Metropolitan High
-      School](https://www.jefferson.kyschools.us/schools/profiles/breckinridge-metropolitan-high)
-      in Jefferson County Public Schools.
+      community for decades. I'm running against a establishment Democrat in a
+      traditionally blue area, so I'll need all the support I can get.
     actions:
       - type: Button
         label: Join My Team
