@@ -405,7 +405,7 @@ sections:
         textAlign: center
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/277576841_111378834860751_6970880646401486249_n.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
