@@ -281,7 +281,7 @@ sections:
         style: primary
         elementId: ''
   - type: FeaturedItemsSection
-    colors: colors-h
+    colors: colors-g
     elementId: ''
     title: Carrie Regularly Hosts And Attends Events
     items:
