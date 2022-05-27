@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - colors: colors-a
     elementId: ''
-    title: FAQ
+    title: Carrie Cares About Solving Problems
     items:
       - question: How is this different from what we have today?
         answer: >-
