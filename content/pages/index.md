@@ -285,7 +285,7 @@ sections:
           Volunteer Breakfast and Fundraiser.
         featuredImage:
           type: ImageBlock
-          url: /images/faster.svg
+          url: /images/283066264_760722338612418_8452629678607617132_n.jpg
           altText: Item image
         styles:
           self:
