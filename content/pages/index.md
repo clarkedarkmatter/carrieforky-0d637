@@ -23,7 +23,7 @@ sections:
 
     actions:
       - type: Button
-        label: Join Team Carrie
+        label: Join My Team
         url: /join
         style: primary
       - type: Link
