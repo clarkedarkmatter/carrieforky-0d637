@@ -18,8 +18,11 @@ sections:
 
       I love my hometown of Louisville and I have had a heart for serving our
 
-      community for decades. I'm running against a establishment Democrat in a
-      traditionally blue area, so I'll need all the support I can get.
+      community for decades. 
+
+
+      I'm running against a establishment Democrat in a traditionally blue area,
+      so I'll need all the support I can get.
     actions:
       - type: Button
         label: Join My Team
