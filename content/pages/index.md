@@ -201,7 +201,7 @@ sections:
           could be motivation, At the office, working together is often a
           distraction, on remote, it could be motivation, At the office, working
           together is often a distraction, on remote, it could be motivation
-      - question: How should we treat those with
+      - question: How should we treat those with special needs?
         answer: >-
           At the office, working together is often a distraction, on remote, it
           could be motivation, At the office, working together is often a
