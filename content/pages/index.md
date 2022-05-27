@@ -211,6 +211,11 @@ sections:
       bright, articulate and trustworthy. Kentucky needs her insight, activism
       and commitment in Frankfort."
 
+
+
+
+      [Read All Endorsements](/endorsements)
+
     name: Cecil Blye
     title: 'Pastor & President, More Grace Ministries, Inc.'
     backgroundImage:
