@@ -58,7 +58,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: Where did everyone go?
+    title: Why Vote Carrie Sanders McKeehan?
     text: >
       Learn how top tech companies have learned working remote using our
       product.
