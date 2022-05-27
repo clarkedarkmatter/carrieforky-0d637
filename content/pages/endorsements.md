@@ -5,7 +5,7 @@ sections:
   - elementId: ''
     colors: colors-h
     title: Carrie Loves People.
-    subtitle: You should join us.
+    subtitle: And people love Carrie!
     media:
       type: ImageBlock
       url: /images/hero-4.jpg
