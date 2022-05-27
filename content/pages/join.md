@@ -88,7 +88,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    backgroundSize: inset
+    backgroundSize: full
   - type: ContactSection
     elementId: ''
     colors: colors-f
