@@ -152,13 +152,6 @@
                 "icon": "facebook",
                 "style": "primary",
                 "elementId": ""
-            },
-            {
-                "type": "Social",
-                "altText": "Facebook",
-                "label": "Facebook",
-                "url": "/",
-                "icon": "facebook"
             }
         ],
         "legalLinks": [
