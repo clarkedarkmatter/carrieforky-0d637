@@ -428,4 +428,5 @@ sections:
     colors: colors-f
     recentCount: 3
 socialImage: /images/oscar.png
+metaTitle: Vote Carrie Sanders McKeehan For State Rep.
 ---
