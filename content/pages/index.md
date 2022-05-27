@@ -67,9 +67,8 @@ sections:
     colors: colors-a
     backgroundSize: inset
     title: Why Should You Vote For Carrie Sanders McKeehan?
-    text: >
-      Learn how top tech companies have learned working remote using our
-      product.
+    text: |
+      Watch the video below to hear more about Carrie and her campaign.
     badge:
       type: Badge
       styles:
