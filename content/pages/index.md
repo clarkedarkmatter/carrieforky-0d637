@@ -286,7 +286,7 @@ sections:
     title: Carrie Regularly Hosts And Attends Events
     items:
       - type: FeaturedItem
-        title: Weekly Breakfast and Fundraiser
+        title: Weekly Breakfast & Fundraiser
         text: >
           Join Carrie and her team EVERY Saturday until the election for a
           Volunteer Breakfast and Fundraiser.
