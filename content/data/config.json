@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "primaryColors": "colors-a",
+        "primaryColors": "colors-b",
         "secondaryColors": "colors-f",
         "title": "Carrie For State Representative ",
         "isTitleVisible": true,
