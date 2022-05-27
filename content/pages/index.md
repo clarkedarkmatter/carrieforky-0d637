@@ -415,7 +415,7 @@ sections:
         justifyContent: center
   - type: ContactSection
     colors: colors-a
-    backgroundSize: full
+    backgroundSize: inset
     title: Stay In The Race
     text: |
       Enter your email to receive updates from the campaign!
