@@ -1,5 +1,5 @@
 ---
-title: Platform
+title: Issues
 layout: PageLayout
 sections:
   - colors: colors-a
