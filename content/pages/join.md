@@ -49,7 +49,7 @@ sections:
           width: full
         - type: CheckboxFormControl
           name: updates
-          label: Sign me up to receive updates
+          label: I Want A T-Shirt
           isRequired: false
           width: full
         - type: CheckboxFormControl
