@@ -254,6 +254,15 @@ sections:
         elementId: ''
         type: Link
         label: See all
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
   - type: ContactSection
     colors: colors-a
     backgroundSize: full
