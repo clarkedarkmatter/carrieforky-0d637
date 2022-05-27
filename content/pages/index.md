@@ -232,7 +232,7 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-28
+          - pt-52
           - pb-2
           - pl-1
           - pr-1
