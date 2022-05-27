@@ -205,6 +205,9 @@ sections:
     elementId: ''
     colors: colors-c
     quote: >
+      ![](/images/277576841\_111378834860751\_6970880646401486249\_n-fb31f573.jpg)
+
+
       #### "I wholly and wholeheartedly endorse Carrie's candidacy. She is a
       brilliant problem solver and leader. Her background as a mom and educator
       uniquely position her to understand family and community needs. She is
