@@ -201,7 +201,7 @@ sections:
           could be motivation, At the office, working together is often a
           distraction, on remote, it could be motivation, At the office, working
           together is often a distraction, on remote, it could be motivation
-      - question: How should
+      - question: How should we treat those with
         answer: >-
           At the office, working together is often a distraction, on remote, it
           could be motivation, At the office, working together is often a
