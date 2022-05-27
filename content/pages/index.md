@@ -255,7 +255,7 @@ sections:
         type: Link
         label: See all
       - type: Button
-        label: Learn more
+        label: Read Full Platform
         altText: ''
         url: /
         showIcon: false
