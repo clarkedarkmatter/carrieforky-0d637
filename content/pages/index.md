@@ -246,14 +246,6 @@ sections:
         textAlign: center
     type: FaqSection
     actions:
-      - altText: ''
-        url: /faq
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-        type: Link
-        label: See all
       - type: Button
         label: Read Full Platform
         altText: ''
