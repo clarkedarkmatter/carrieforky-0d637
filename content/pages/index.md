@@ -294,9 +294,6 @@ sections:
 
 
           **9:30 AM EST - June 4**
-
-
-          **RSVP on Facebook**
         featuredImage:
           type: ImageBlock
           url: /images/apple.svg
