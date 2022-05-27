@@ -78,8 +78,8 @@ sections:
     backgroundSize: inset
     title: Why Is Carrie Running?
     text: >
-      Why should you vote for Carrie? Watch the video below to hear more about
-      Carrie and her campaign.
+      Carrie is a people person - a servant leader. Watch the video below to
+      hear more about Carrie and her campaign.
     badge:
       type: Badge
       styles:
