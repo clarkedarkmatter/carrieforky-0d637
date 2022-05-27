@@ -73,7 +73,7 @@
                 }
             }
         },
-        "headerVariant": "variant-a"
+        "headerVariant": "variant-b"
     },
     "footer": {
         "colors": "colors-a",
