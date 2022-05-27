@@ -8,7 +8,7 @@ sections:
     title: Carrie Cares.
     subtitle: ''
     badge:
-      label: Think that Our District Needs A Change iN Strategy? We do.
+      label: Think that Our Community Needs A Change iN Strategy? We do.
       elementId: ''
       styles:
         self:
