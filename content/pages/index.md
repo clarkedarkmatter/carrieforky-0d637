@@ -204,18 +204,15 @@ sections:
   - type: QuoteSection
     elementId: ''
     colors: colors-c
-    quote: >+
-      ###### "I wholly and wholeheartedly endorse Carrie's candidacy. She is a
+    quote: >
+      ##### "I wholly and wholeheartedly endorse Carrie's candidacy. She is a
       brilliant problem solver and leader. Her background as a mom and educator
       uniquely position her to understand family and community needs. She is
       bright, articulate and trustworthy. Kentucky needs her insight, activism
       and commitment in Frankfort."
 
 
-
-
       [Read All Endorsements](/endorsements)
-
     name: Cecil Blye
     title: 'Pastor & President, More Grace Ministries, Inc.'
     backgroundImage:
