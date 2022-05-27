@@ -212,7 +212,7 @@ sections:
       and commitment in Frankfort."
 
 
-      [Read All Endorsements](/endorsements)
+      [Read More Endorsements](/endorsements)
     name: Cecil Blye
     title: 'Pastor & President, More Grace Ministries, Inc.'
     backgroundImage:
