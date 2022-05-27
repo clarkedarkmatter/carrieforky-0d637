@@ -429,5 +429,5 @@ sections:
     recentCount: 3
 socialImage: /images/oscar.png
 metaTitle: Carrie For State Rep.
-metaDescription: Campaign Home Page For Carrie Sanders McKeehan for State Rep.
+metaDescription: Campaign Home Page For Carrie Sanders McKeehan for State Representative
 ---
