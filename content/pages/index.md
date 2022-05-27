@@ -22,8 +22,8 @@ sections:
 
 
       *   Carrie truly cares about every individual in our community and knows
-      that ugly partisan fighting never helps anyone. Carrie cares about
-      solutions.
+      that ugly partisan fighting never helps anyone. **Carrie cares about
+      solutions.**
 
 
       <!---->
