@@ -299,10 +299,10 @@ sections:
           - ml-2
           - mr-2
         padding:
-          - pt-14
-          - pb-14
-          - pr-14
-          - pl-14
+          - pt-10
+          - pb-10
+          - pr-10
+          - pl-10
         alignItems: center
         justifyContent: center
         flexDirection: row
