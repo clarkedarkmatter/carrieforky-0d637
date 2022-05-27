@@ -261,9 +261,7 @@ sections:
           together is often a distraction, on remote, it could be motivation
 
 
-
-
-          ![](/images/278580495\_117612420904059\_6501407623324236459\_n.jpg)
+          ![](/images/278571611\_119086514089983\_2838702641208173329\_n.jpg)
       - question: How can we lower the cost of living in our area?
         answer: >-
           At the office, working together is often a distraction, on remote, it
