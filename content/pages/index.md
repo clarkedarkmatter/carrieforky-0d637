@@ -225,7 +225,7 @@ sections:
           - mr-0
         padding:
           - pt-2
-          - pb-0
+          - pb-2
           - pl-0
           - pr-0
         justifyContent: center
