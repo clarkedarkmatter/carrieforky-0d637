@@ -110,7 +110,7 @@ sections:
           - pt-1
           - pb-0
           - pl-5
-          - pr-0
+          - pr-1
         justifyContent: center
         flexDirection: row
         alignItems: center
