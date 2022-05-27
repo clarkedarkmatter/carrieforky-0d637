@@ -427,4 +427,5 @@ sections:
     subtitle: Find Out What Carrie's Been Working On.
     colors: colors-f
     recentCount: 3
+socialImage: /images/oscar.png
 ---
