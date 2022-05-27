@@ -238,7 +238,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    variant: variant-c
+    variant: variant-b
   - colors: colors-f
     elementId: ''
     title: Our Community Issues
