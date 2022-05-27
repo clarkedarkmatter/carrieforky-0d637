@@ -106,10 +106,10 @@ sections:
           - ml-9
           - mr-9
         padding:
-          - pt-28
-          - pb-28
-          - pl-28
-          - pr-28
+          - pt-36
+          - pb-36
+          - pl-36
+          - pr-36
         justifyContent: center
         flexDirection: row
         alignItems: center
