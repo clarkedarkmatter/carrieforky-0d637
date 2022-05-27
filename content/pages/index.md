@@ -237,7 +237,7 @@ sections:
       you’re looking for.
     items:
       - type: FeaturedItem
-        title: Faster
+        title: Pro-Business
         text: >
           Learn how top tech companies have learned working remote using our
           product.
