@@ -113,7 +113,7 @@ sections:
           - pr-0
         justifyContent: center
         flexDirection: row
-        alignItems: flex-end
+        alignItems: center
         borderRadius: large
         boxShadow: xx-large
       title:
