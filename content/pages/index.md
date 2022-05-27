@@ -14,19 +14,16 @@ sections:
         self:
           textAlign: left
     text: >
-      Hi. I'm Carrie Sanders McKeehan.
-
-      I love my hometown of Louisville and I have had a heart for serving our
-
-      community for decades.
+      Carrie Sanders McKeehan loves her hometown of Louisville and has the heart
+      for serving others.
 
 
       Carrie truly cares about every individual in our community and knows that
-      ugly partisan fighting never helps anyone. 
+      ugly partisan fighting never helps anyone. Carrie cares about solutions.
 
 
-      Carrie Sanders McKeehan will get better legislative results and better
-      representation in Frankfort than the incumbent. 
+      Carrie can easily achieve better legislative results than her incumbent
+      opponent has and better represent the diverse community in District 41. 
     actions:
       - type: Button
         label: Join My Team
