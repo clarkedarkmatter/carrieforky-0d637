@@ -67,7 +67,7 @@
             "url": "/images/oscar.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
-            "elementId": "",
+            "elementId": "test",
             "styles": {
                 "self": {
                     "opacity": 100
