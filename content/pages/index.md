@@ -220,7 +220,7 @@ sections:
       - content/data/team/person-ow755rtzo.json
     styles:
       self:
-        height: auto
+        height: screen
         width: narrow
         margin:
           - mt-0
