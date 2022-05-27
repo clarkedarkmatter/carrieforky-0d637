@@ -170,7 +170,7 @@ sections:
       aspectRatio: '16:9'
       elementId: ''
   - colors: colors-h
-    subtitle: Trusted by
+    subtitle: 'Endorsed By:'
     elementId: ''
     images:
       - type: ImageBlock
