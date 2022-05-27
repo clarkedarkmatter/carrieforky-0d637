@@ -8,7 +8,7 @@ sections:
     title: Carrie Cares.
     subtitle: ''
     badge:
-      label: What's Different about Carrie and Her Campaign?
+      label: Character. Compassion.
       elementId: ''
       styles:
         self:
