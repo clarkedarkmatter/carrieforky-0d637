@@ -166,7 +166,7 @@ sections:
         url: /images/zcool.svg
         altText: ZCOOL
         caption: ZCOOL
-    spacing: 10
+    spacing: 21
     columns: 4
     aspectRatio: auto
     showCaption: false
