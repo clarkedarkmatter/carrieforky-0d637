@@ -50,7 +50,6 @@ sections:
   - type: ContactSection
     elementId: ''
     colors: colors-a
-    backgroundSize: full
     title: Join Team Carrie
     text: We look forward to hearing from you.
     form:
