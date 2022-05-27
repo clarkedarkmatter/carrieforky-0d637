@@ -137,7 +137,7 @@ sections:
       elementId: ''
     subtitle: Servant Leadership
   - colors: colors-a
-    subtitle: 'Officially Endorsed By:'
+    subtitle: 'By Great Campaigns & Organizations:'
     elementId: ''
     images:
       - type: ImageBlock
