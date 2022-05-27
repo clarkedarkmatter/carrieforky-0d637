@@ -119,7 +119,7 @@ sections:
       type: VideoBlock
       title: Vote Carrie Sanders McKeehan
       url: 'https://www.youtube.com/watch?v=No-H-mBGYYM'
-      autoplay: true
+      autoplay: false
       loop: false
       muted: false
       controls: true
