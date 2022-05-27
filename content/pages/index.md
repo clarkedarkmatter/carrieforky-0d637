@@ -243,7 +243,7 @@ sections:
     variant: variant-a
   - colors: colors-f
     elementId: ''
-    title: Our Community Issues
+    title: On The Issues
     items:
       - question: What can we do to stop violent crime?
         answer: >
