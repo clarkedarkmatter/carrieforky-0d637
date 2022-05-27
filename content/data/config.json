@@ -73,7 +73,8 @@
                     "opacity": 100
                 }
             }
-        }
+        },
+        "headerVariant": "variant-e"
     },
     "footer": {
         "colors": "colors-a",
