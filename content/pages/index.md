@@ -339,7 +339,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Recent Posts
+    title: On The Campaign Trail
     subtitle: Latest blog posts section example
     colors: colors-f
     recentCount: 3
