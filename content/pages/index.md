@@ -236,7 +236,7 @@ sections:
           - pb-2
           - pl-1
           - pr-1
-        justifyContent: center
+        justifyContent: flex-end
       quote:
         textAlign: center
       name:
