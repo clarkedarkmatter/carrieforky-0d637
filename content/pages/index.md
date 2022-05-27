@@ -111,7 +111,7 @@ sections:
           - pb-0
           - pl-0
           - pr-0
-        justifyContent: flex-end
+        justifyContent: center
         flexDirection: row
         alignItems: center
         borderRadius: large
