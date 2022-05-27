@@ -68,8 +68,9 @@ sections:
     colors: colors-a
     backgroundSize: inset
     title: Why Should You Vote For Carrie Sanders McKeehan?
-    text: |
-      Watch the video below to hear more about Carrie and her campaign.
+    text: >
+      Why should you vote for Carrie? Watch the video below to hear more about
+      Carrie and her campaign.
     badge:
       type: Badge
       styles:
