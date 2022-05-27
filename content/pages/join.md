@@ -51,7 +51,7 @@ sections:
     elementId: ''
     colors: colors-h
     backgroundSize: full
-    title: Contact us
+    title: Join Team Carrie
     text: We look forward to hearing from you.
     form:
       type: FormBlock
