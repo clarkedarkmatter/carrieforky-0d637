@@ -203,7 +203,7 @@ sections:
     title: Featured & Endorsed
   - type: QuoteSection
     elementId: ''
-    colors: colors-f
+    colors: colors-g
     quote: >+
       ###### "I wholly and wholeheartedly endorse Carrie's candidacy. She is a
       brilliant problem solver and leader. Her background as a mom and educator
