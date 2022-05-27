@@ -78,8 +78,9 @@ sections:
     backgroundSize: inset
     title: Why Is Carrie Running?
     text: >
-      Carrie is a people person - a servant leader. Watch the video below to
-      hear more about Carrie and her campaign.
+      Carrie is a people person - **a  true servant leader**. She would make an
+      excellent representative for our community. Watch the video below to hear
+      more about Carrie and her campaign.
     badge:
       type: Badge
       styles:
