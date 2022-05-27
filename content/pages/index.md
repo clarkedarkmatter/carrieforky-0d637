@@ -209,7 +209,7 @@ sections:
       - type: Button
         label: Learn more
         altText: ''
-        url: /
+        url: /endorsements
         showIcon: false
         icon: arrowRight
         iconPosition: right
