@@ -159,14 +159,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
-    media:
-      altText: Where did everyone go?
-      caption: Team meeting
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
   - colors: colors-h
     subtitle: Trusted by
     elementId: ''
