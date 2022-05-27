@@ -3,7 +3,7 @@ title: Endorsements
 layout: PageLayout
 sections:
   - elementId: ''
-    colors: colors-h
+    colors: colors-a
     title: Carrie Loves People.
     subtitle: And people love Carrie!
     media:
