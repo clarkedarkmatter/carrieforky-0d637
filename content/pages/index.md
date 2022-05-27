@@ -78,9 +78,10 @@ sections:
     backgroundSize: inset
     title: Why Is Carrie Running?
     text: >
-      Carrie is a people person - **a  true servant leader**. She would make an
-      excellent representative for our community. Watch the video below to hear
-      more about Carrie and her campaign.
+      Carrie is a people person - **a  true servant leader**. That quality makes
+      her an excellent candidate to represent the 41st District in Frankfort
+      next year. Watch the video below to hear more about Carrie and her
+      campaign.
     badge:
       type: Badge
       styles:
