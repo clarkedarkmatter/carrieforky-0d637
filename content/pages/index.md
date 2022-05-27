@@ -99,7 +99,7 @@ sections:
         iconPosition: left
     styles:
       self:
-        height: screen
+        height: auto
         width: full
         margin:
           - mt-0
