@@ -290,6 +290,9 @@ sections:
         text: >
           Join Carrie and her team EVERY Saturday until the election for a
           Volunteer Breakfast and Fundraiser.
+
+
+          **9:30 AM EST - June 4**
         featuredImage:
           type: ImageBlock
           url: /images/apple.svg
