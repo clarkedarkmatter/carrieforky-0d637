@@ -204,7 +204,7 @@ sections:
   - type: FeaturedPeopleSection
     elementId: ''
     variant: variant-c
-    colors: colors-h
+    colors: colors-a
     actions:
       - type: Button
         label: Learn more
