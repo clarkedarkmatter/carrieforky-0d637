@@ -428,5 +428,5 @@ sections:
     colors: colors-f
     recentCount: 3
 socialImage: /images/oscar.png
-metaTitle: Carrie For State Rep.
+metaTitle: 'Carrie For State Rep. '
 ---
