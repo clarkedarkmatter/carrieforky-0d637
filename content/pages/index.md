@@ -138,7 +138,6 @@ sections:
       elementId: ''
     subtitle: Servant Leadership
   - colors: colors-a
-    subtitle: 'By Great Campaigns & Organizations Like:'
     elementId: ''
     images:
       - type: ImageBlock
