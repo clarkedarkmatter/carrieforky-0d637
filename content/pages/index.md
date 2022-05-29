@@ -8,7 +8,7 @@ sections:
     title: Carrie Cares.
     subtitle: ''
     badge:
-      label: Practical. Compassionate.
+      label: Character. Hope. Our District.
       elementId: ''
       styles:
         self:
