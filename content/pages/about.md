@@ -8,7 +8,7 @@ sections:
     elementId: ''
     variant: variant-c
     colors: colors-h
-    title: About us
+    title: Who
     subtitle: Featured people section example
     actions: []
     people:
