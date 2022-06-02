@@ -1,11 +1,8 @@
 ---
 layout: PostLayout
-metaTitle: null
-metaDescription: null
 addTitleSuffix: true
-socialImage: null
 metaTags: []
-title: 'This '
+title: Happy Birthday Kentucky
 date: '2022-06-02'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
