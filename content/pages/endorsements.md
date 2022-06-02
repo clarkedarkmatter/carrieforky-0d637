@@ -197,7 +197,7 @@ sections:
     backgroundSize: full
     title: We Can Turn This Around
     text: |
-      Carrie is a tireless leader and a candidate you can be proud to vote for. 
+      Carrie is a tireless leader and a candidate you can be proud to vote for.
     actions:
       - type: Button
         label: Join Team Carrie
