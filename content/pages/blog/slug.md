@@ -9,7 +9,7 @@ excerpt: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/285544765_130696642928970_4065208763449737828_n.jpg
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
