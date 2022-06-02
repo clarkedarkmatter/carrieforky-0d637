@@ -37,11 +37,14 @@ sections:
           backgrounds.
         question: How can we improve our education system?
       - question: What's an issue we can all rally behind?
-        answer: >-
-          At the office, working together is often a distraction, on remote, it
-          could be motivation, At the office, working together is often a
-          distraction, on remote, it could be motivation, At the office, working
-          together is often a distraction, on remote, it could be motivation
+        answer: >
+          **Investing In Literacy**: Reading is an essential life skill.
+          Literacy should be the top priority for all schools and Carrie will
+          ensure that it is as your State Representative. Studies suggest that
+          If your child cannot read by the 3rd grade, it gets substantially
+          harder for them to be successful in reading later on in life. We need
+          more focus on literacy, earlier in the developmental cycle to help our
+          students be more successful.
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distraction, on remote, it
