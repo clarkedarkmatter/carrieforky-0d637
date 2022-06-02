@@ -89,7 +89,7 @@ sections:
       - type: Button
         label: Donate To Carrie
         url: /
-        style: primary
+        style: secondary
       - type: Link
         label: Watch Video On Youtube
         url: 'https://www.youtube.com/watch?v=No-H-mBGYYM'
