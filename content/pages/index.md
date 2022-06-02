@@ -434,7 +434,7 @@ sections:
           width: full
           type: EmailFormControl
         - type: TextFormControl
-          name: home-address
+          name: phone
           label: Home address
           hideLabel: false
           placeholder: Your home address
