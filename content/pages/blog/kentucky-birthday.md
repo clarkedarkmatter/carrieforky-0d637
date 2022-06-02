@@ -10,5 +10,6 @@ featuredImage:
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
+excerpt: Can you guess how old?
 ---
 Happy birthday Kentucky!  She’s 230 years young! May she have many more prosperous and blessed years! No place like my old Kentucky Home!
