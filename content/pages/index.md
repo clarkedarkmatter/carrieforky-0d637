@@ -435,7 +435,7 @@ sections:
           type: EmailFormControl
         - type: TextFormControl
           name: phone
-          label: 'Phone #'
+          label: Phone Number
           hideLabel: false
           placeholder: Your home address
           isRequired: false
