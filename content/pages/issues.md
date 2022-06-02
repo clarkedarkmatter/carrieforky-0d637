@@ -42,8 +42,16 @@ sections:
           distraction, on remote, it could be motivation, At the office, working
           together is often a distraction, on remote, it could be motivation
       - question: How do you feel about vaccinations?
-        answer: |
-          While I encourage all
+        answer: >
+          While I encourage all to get the vaccine if they are able, I’m the
+          only candidate for medical freedom.
+
+
+          I don’t believe governments or businesses should make medical
+          decisions that affect you or your family in any way, shape, or form. 
+          I don't agree that someone should lose their job due to their COVID-19
+          vaccination status.
+
 
           ![](/images/281000194\_125168336815134\_3411034341188653761\_n.jpg)
       - question: How is this different from what we have today?
