@@ -193,7 +193,7 @@ sections:
         textAlign: center
   - type: CtaSection
     elementId: ''
-    colors: colors-d
+    colors: colors-c
     backgroundSize: full
     title: Let's do this
     text: >-
