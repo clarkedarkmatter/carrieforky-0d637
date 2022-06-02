@@ -103,7 +103,7 @@ sections:
     actions:
       - type: Link
         label: See all
-        url: /
+        url: /join
         showIcon: true
         icon: arrowRight
     items:
