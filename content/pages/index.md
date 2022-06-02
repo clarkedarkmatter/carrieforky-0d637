@@ -134,7 +134,7 @@ sections:
       controls: true
       aspectRatio: '16:9'
       elementId: ''
-    subtitle: Hope.
+    subtitle: 'Hope. Character. '
   - colors: colors-a
     elementId: ''
     images:
