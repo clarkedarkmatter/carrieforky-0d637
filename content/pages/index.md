@@ -303,7 +303,7 @@ sections:
     type: FaqSection
     actions:
       - type: Button
-        label: Join Team Carrie
+        label: I'm Ready To Join Team Carrie
         altText: ''
         url: /join
         showIcon: false
