@@ -4,9 +4,7 @@ addTitleSuffix: true
 metaTags: []
 title: Celebration Cookout
 date: '2022-05-31'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Thank you to all who came out and we missed all those who couldn’t make it!
 featuredImage:
   type: ImageBlock
   url: /images/285544765_130696642928970_4065208763449737828_n.jpg
