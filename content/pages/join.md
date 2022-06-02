@@ -12,7 +12,7 @@ sections:
       We look forward to hearing from you.
     form:
       type: FormBlock
-      variant: variant-a
+      variant: variant-b
       elementId: contact-form
       action: /.netlify/functions/submission_created
       destination: 'clarkehurt09@gmail.com,carrieforky@gmail.com'
