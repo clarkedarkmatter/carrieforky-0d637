@@ -3,7 +3,7 @@ layout: PostLayout
 addTitleSuffix: true
 metaTags: []
 title: Happy Birthday Kentucky
-date: '2022-06-02'
+date: '2022-06-01'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
