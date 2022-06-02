@@ -108,14 +108,14 @@ sections:
         textAlign: center
   - elementId: ''
     colors: colors-e
-    quote: >
-      “When you vote for Carrie, this is who she is. She is courageous to be
-      embarking in this line of work. But I believe in her conviction and if she
-      is elected, she will be taking the time to get to know you. She is
-      approachable and has an empathetic ear. And she will do all she can to 
+    quote: >+
+      ##### “When you vote for Carrie, this is who she is. She is courageous to
+      be embarking in this line of work. But I believe in her conviction and if
+      she is elected, she will be taking the time to get to know you. She is
+      approachable and has an empathetic ear. And she will do all she can to get
+      things done in her electorate. When I say what you see is what you get,
+      this is who you are getting."
 
-      get things done in her electorate. When I say what you see is what you
-      get, this is who you are getting."
     name: Cecil Blye
     title: 'Pastor & President, More Grace Ministries, Inc.'
     styles:
