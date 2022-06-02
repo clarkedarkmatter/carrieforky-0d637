@@ -116,23 +116,6 @@ sections:
           type: ImageBlock
           url: /images/278615549_116572531008048_2445199668254025929_n.jpg
           altText: Photo of Carla Rogers
-      - type: Testimonial
-        quote: >-
-          “It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.”
-        name: Johnna Doe
-        title: Product Marketing Manager at Acme
-        image:
-          url: /images/280413391_124386733559961_1817655490597991610_n.jpg
-          altText: Person photo
-        elementId: ''
-        styles:
-          name:
-            fontWeight: 400
-            fontStyle: normal
-          title:
-            fontWeight: 400
-            fontStyle: normal
     styles:
       self:
         height: auto
