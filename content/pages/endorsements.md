@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-a
-    title: 'She''s Been Endorsed By Local Leaders & '
+    title: She's Been Endorsed By Local Leaders & Voters
     subtitle: And people love Carrie!
     media:
       type: ImageBlock
