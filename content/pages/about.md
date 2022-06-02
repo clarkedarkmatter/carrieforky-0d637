@@ -11,7 +11,7 @@ sections:
     title: Who Is Carrie?
     subtitle: ''
     badge:
-      label: This is the badge
+      label: 'Educator. '
       elementId: ''
       styles:
         self:
