@@ -28,7 +28,7 @@ sections:
           url: /images/277576841_111378834860751_6970880646401486249_n-fb31f573.jpg
           altText: Person photo
       - type: Testimonial
-        quote: "## \"I’m honored to proudly stand in formally endorsing Carrie Sanders McKeehan as State Representative of the 41st District.\_ Carrie will be an effective leader who will be a TRUE voice in Frankfort, making a positive impact on her district and state.\"\n\n"
+        quote: "## \"I’m honored to proudly stand in formally endorsing Carrie Sanders McKeehan as State Representative of the 41st District.\_ \n\n### Carrie will be an effective leader who will be a TRUE voice in Frankfort, making a positive impact on her district and state.\"\n\n"
         name: Ryan Dotson
         title: Kentucky State Representative - House District 73
         image:
