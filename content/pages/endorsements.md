@@ -123,7 +123,7 @@ sections:
       this is who you are getting."
 
     name: Jeremy Tai
-    title: 'Pastor & President, More Grace Ministries, Inc.'
+    title: Member of “Youth with a Mission (YWAM)"
     styles:
       self:
         height: auto
