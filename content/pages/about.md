@@ -19,7 +19,10 @@ sections:
     text: >
       Carrie is a Christian, an educator, a mother and a community leader. She
       has designed and written curriculum for programs in our community and
-      served at high levels in multiple organizations. 
+      served at high levels in multiple organizations.
+
+
+      She is fighting for our voice in Frankfort.
     actions:
       - type: Button
         label: Join A Movement
