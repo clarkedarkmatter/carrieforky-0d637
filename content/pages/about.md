@@ -9,7 +9,7 @@ sections:
     variant: variant-c
     colors: colors-h
     title: Who Is Carrie Sanders McKeehan?
-    subtitle: 'Carrie is an educator, a mother and a community leader.'
+    subtitle: 'Carrie is a Christian, an educator, a mother and a community leader.'
     actions: []
     people:
       - content/data/team/desmond-eagle.json
