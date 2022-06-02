@@ -87,7 +87,7 @@ sections:
 
 
           ![](/images/281000194\_125168336815134\_3411034341188653761\_n.jpg)
-      - question: How is this different from what we have today?
+      - question: 'How '
         answer: >-
           At the office, working together is often a distraction, on remote, it
           could be motivation, At the office, working together is often a
