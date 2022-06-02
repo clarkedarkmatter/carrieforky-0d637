@@ -26,7 +26,7 @@ sections:
     actions:
       - type: Button
         label: Join Carrie Today
-        url: /
+        url: /join
         style: primary
     media:
       type: ImageBlock
