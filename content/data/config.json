@@ -65,7 +65,7 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/Untitled design (64).png",
-            "altText": "altText of the image",
+            "altText": "Carrie",
             "caption": "Caption of the image",
             "styles": {
                 "self": {
