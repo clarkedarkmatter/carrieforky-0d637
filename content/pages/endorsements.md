@@ -22,6 +22,13 @@ sections:
           placeholder: Your email
           isRequired: 'true'
           width: full
+        - type: TextFormControl
+          name: home-address
+          label: Home address
+          hideLabel: false
+          placeholder: Your home address
+          isRequired: false
+          width: full
       submitLabel: Sign Up
     media: null
     styles:
