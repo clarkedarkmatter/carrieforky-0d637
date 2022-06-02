@@ -47,7 +47,7 @@ sections:
         textAlign: center
   - type: TestimonialsSection
     elementId: ''
-    colors: colors-b
+    colors: colors-e
     variant: variant-a
     title: Carrie Is Endorsed By Leaders Around Our Community
     subtitle: lorem-ipsum
