@@ -166,8 +166,7 @@ sections:
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-person.png
+          url: /images/280413391_124386733559961_1817655490597991610_n.jpg
           altText: Person photo
         elementId: ''
         styles:
