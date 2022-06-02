@@ -30,7 +30,6 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/277576841_111378834860751_6970880646401486249_n-fb31f573.jpg
       altText: Hero image
     styles:
       self:
