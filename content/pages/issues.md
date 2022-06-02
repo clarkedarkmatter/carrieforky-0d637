@@ -45,7 +45,7 @@ sections:
           harder for them to be successful in reading later on in life. We need
           more focus on literacy, earlier in the developmental cycle to help our
           students be more successful.
-      - question: How is this different from what we have today?
+      - question: How
         answer: >-
           At the office, working together is often a distraction, on remote, it
           could be motivation, At the office, working together is often a
