@@ -7,19 +7,17 @@ sections:
     title: 'Carrie Cares About Solving Our Biggest Problems, Sooner!'
     items:
       - answer: >
-          **Investing In Literacy**: Literacy should be the top priority for all
-          schools and Carrie will ensure that it is as your State
-          Representative.
-
-          Studies suggest that If your child cannot read by the 3rd grade, it
-
-          gets substantially harder for them to be successful in reading. We
-          need more focus on literacy, earlier in the developmental cycle of our
-          students. 
+          **Investing In Literacy**: Reading is an essential life skill.
+          Literacy should be the top priority for all schools and Carrie will
+          ensure that it is as your State Representative. Studies suggest that
+          If your child cannot read by the 3rd grade, it gets substantially
+          harder for them to be successful in reading later on in life. We need
+          more focus on literacy, earlier in the developmental cycle to help our
+          students be more successful.
 
 
-          **School Safety**: We need student resource officers (SRO's) back in
-          our district. Our children's lives are too important to be left to
+          **School Safety**: We need more student resource officers (SRO's) back
+          in our district. Our children's lives are too important to be left to
           chance.
 
 
