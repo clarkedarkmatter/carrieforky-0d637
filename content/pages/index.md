@@ -386,7 +386,7 @@ sections:
           - type: Button
             label: Learn more
             altText: ''
-            url: /
+            url: 'https://www.facebook.com/events/703669350748722'
             showIcon: false
             icon: arrowRight
             iconPosition: right
