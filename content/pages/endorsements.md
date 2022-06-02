@@ -70,7 +70,7 @@ sections:
   - elementId: ''
     colors: colors-e
     quote: >+
-      ##### “When you vote for Carrie, this is who she is. She is courageous to
+      #### “When you vote for Carrie, this is who she is. She is courageous to
       be embarking in this line of work. But I believe in her conviction and if
       she is elected, she will be taking the time to get to know you. She is
       approachable and has an empathetic ear. And she will do all she can to get
