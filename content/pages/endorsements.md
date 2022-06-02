@@ -152,8 +152,8 @@ sections:
     subtitle: ''
     testimonials:
       - quote: >
-          "Such a great experience to be using this product. It really helped
-          with what I needed help with."
+          "Please support Carrie in her run for State Representative! She will
+          work hard for you and have a great presence in the House!"
         name: Carla Rogers
         title: Happy customer
         image:
