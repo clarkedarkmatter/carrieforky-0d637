@@ -3,37 +3,6 @@ title: Endorsements
 layout: PageLayout
 sections:
   - elementId: ''
-    colors: colors-a
-    title: She's Endorsed By Local Leaders
-    media:
-      type: ImageBlock
-      url: /images/277576841_111378834860751_6970880646401486249_n-fb31f573.jpg
-      altText: Hero section image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-  - elementId: ''
     colors: colors-e
     quote: >+
       ### "I wholly and wholeheartedly endorse Carrie's candidacy. She is a
