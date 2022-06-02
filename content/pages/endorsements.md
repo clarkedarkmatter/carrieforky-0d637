@@ -8,7 +8,7 @@ sections:
     backgroundSize: full
     title: Stay In The Loop
     text: |
-      Enter An Email Or Text-able Phone Number To Get Updates From The Campaign.
+      Enter An Email Or Mobile Phone Number To Get Updates From The Campaign.
     form:
       type: FormBlock
       variant: variant-b
