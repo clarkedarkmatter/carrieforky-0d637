@@ -44,7 +44,7 @@ sections:
           width: full
         - type: CheckboxFormControl
           name: sign
-          label: I Want A Campaign Sign
+          label: I Want A Yard Sign
           isRequired: 'false'
           width: full
         - type: CheckboxFormControl
