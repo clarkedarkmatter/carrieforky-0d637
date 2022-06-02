@@ -260,7 +260,7 @@ sections:
           lowering state income tax and pledge to vote against all tax
           increases. Carrie will support any legislation that will bring good
           jobs to the 41st District.
-      - question: How should we treat those with special needs?
+      - question: What's an issue we can ALL agree on?
         answer: >-
           At the office, working together is often a distraction, on remote, it
           could be motivation, At the office, working together is often a
