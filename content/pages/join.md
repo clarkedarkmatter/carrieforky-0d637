@@ -71,7 +71,7 @@ sections:
           name: description
           label: Description
           hideLabel: false
-          placeholder: Write your message
+          placeholder: Write your message here
           isRequired: false
           width: full
       submitLabel: Send Message
