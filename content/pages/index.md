@@ -317,7 +317,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-a
     elementId: ''
-    title: Events With Carrie
+    title: Upcoming
     items:
       - type: FeaturedItem
         title: Weekly Breakfast & Fundraiser
