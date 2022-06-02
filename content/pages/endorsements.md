@@ -39,8 +39,8 @@ sections:
       ## "I wholly and wholeheartedly endorse Carrie's candidacy. She is a
       brilliant problem solver and leader. Her background as a mom and educator
       uniquely position her to understand family and community needs. She is
-      bright, articulate and trustworthy. &#xA;Kentucky needs her insight,
-      activism and commitment in Frankfort."
+      bright, articulate and trustworthy. Kentucky needs her insight, activism
+      and commitment in Frankfort."
 
     name: Carla Rogers
     title: Someone from the team
