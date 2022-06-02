@@ -155,7 +155,7 @@ sections:
           "Please support Carrie in her run for State Representative! She will
           work hard for you and have a great presence in the House!"
         name: ' Thomas Huff'
-        title: 'Kentucky State Representative - House District '
+        title: Kentucky State Representative - House District 49f
         image:
           type: ImageBlock
           url: /images/carla.jpg
