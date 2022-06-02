@@ -317,7 +317,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-a
     elementId: ''
-    title: Upcoming
+    title: Upcoming Events
     items:
       - type: FeaturedItem
         title: Weekly Breakfast & Fundraiser
