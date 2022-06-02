@@ -320,31 +320,6 @@ sections:
     title: Upcoming Events
     items:
       - type: FeaturedItem
-        title: Weekly Breakfast & Fundraiser
-        text: >
-          Join Carrie and her team EVERY Saturday until the election for a
-          Volunteer Breakfast and Fundraiser.
-
-
-          **9:30 AM EST - June 4**
-        featuredImage:
-          type: ImageBlock
-          url: /images/apple.svg
-          altText: Item image
-        styles:
-          self:
-            textAlign: center
-        actions:
-          - type: Button
-            label: Learn more
-            altText: ''
-            url: /
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-      - type: FeaturedItem
         title: Meet & Greet
         text: |
           Sol Aztecas Mexican Restaurant
@@ -365,6 +340,31 @@ sections:
             label: Learn more
             altText: ''
             url: 'https://www.facebook.com/events/703669350748722'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
+        title: Weekly Breakfast & Fundraiser
+        text: >
+          Join Carrie and her team EVERY Saturday until the election for a
+          Volunteer Breakfast and Fundraiser.
+
+
+          **9:30 AM EST - June 4**
+        featuredImage:
+          type: ImageBlock
+          url: /images/apple.svg
+          altText: Item image
+        styles:
+          self:
+            textAlign: center
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: /
             showIcon: false
             icon: arrowRight
             iconPosition: right
