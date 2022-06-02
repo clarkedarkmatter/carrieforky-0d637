@@ -16,8 +16,10 @@ sections:
 
           ### Her background as a mom and educator uniquely position her to
           understand family and community needs. She is bright, articulate and
-          trustworthy. Kentucky needs her insight, activism and commitment in
-          Frankfort."
+          trustworthy. 
+
+
+          ### Kentucky needs her insight, activism and commitment in Frankfort."
 
         name: Cecil Blye
         title: 'Pastor & President, More Grace Ministries, Inc.'
