@@ -63,7 +63,7 @@ sections:
           width: full
         - type: CheckboxFormControl
           name: updates
-          label: Anything!
+          label: I Can Do Anything!
           isRequired: false
           width: full
       submitLabel: Send Message
