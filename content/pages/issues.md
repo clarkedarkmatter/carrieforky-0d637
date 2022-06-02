@@ -7,24 +7,33 @@ sections:
     title: 'Carrie Cares About Solving Our Biggest Problems, Sooner!'
     items:
       - answer: >
-          Literacy should be the top priority for all schools and I will ensure
-          that it is as your State Representative.
-           Studies suggest that If your child cannot read by the 3rd grade, it 
-          gets substantially harder for them to be successful in reading. I’m
-          also
-           for safer schools and putting SRO's back in the district, equipping 
-          each to handle the rising problems and behavior incidences occurring 
+          **Investing In Literacy**: Literacy should be the top priority for all
+          schools and Carrie will ensure that it is as your State
+          Representative.
 
-          weekly.
+          Studies suggest that If your child cannot read by the 3rd grade, it
+
+          gets substantially harder for them to be successful in reading. 
 
 
-          I’m for school choice.
-           Students and parents should have the ability to choose what environment
-           and curriculum is conducive for each child’s needs and future goals. 
+          **School Safety**: We need student resource officers (SRO's) back in
+          our district. Our children's lives are too important to be left to
+          chance. 
+
+
+          **School Choice**: Students and parents should have the ability to
+          choose what environment
+
+          and curriculum is conducive for each child’s needs and future goals.
+
           Being for school choice doesn’t mean that I’m against public schools,
           it
-           just means not all students thrive in public schools and options should
-           be available to all students regardless of their social economic 
+
+          just means not all students thrive in public schools and options
+          should
+
+          be available to all students regardless of their social economic
+
           backgrounds.
         question: How can we improve our education system?
       - question: How is this different from what we have today?
