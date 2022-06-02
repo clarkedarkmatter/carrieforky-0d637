@@ -250,11 +250,16 @@ sections:
 
           ![](/images/278571611\_119086514089983\_2838702641208173329\_n.jpg)
       - question: How can we lower the cost of living in our area?
-        answer: >-
-          At the office, working together is often a distraction, on remote, it
-          could be motivation, At the office, working together is often a
-          distraction, on remote, it could be motivation, At the office, working
-          together is often a distraction, on remote, it could be motivation
+        answer: >
+          Government spending should be within our means. We should be using our
+          tax dollars more efficiently, especially during times of inflation.
+
+
+          Carrie will fight for lower business taxes and lower gas taxes -
+          especially in this period of rapid inflation. I will fight for
+          lowering state income tax and pledge to vote against all tax
+          increases. Carrie will support any legislation that will bring good
+          jobs to the 41st District.
       - question: How should we treat those with special needs?
         answer: >-
           At the office, working together is often a distraction, on remote, it
