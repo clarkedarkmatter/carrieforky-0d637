@@ -44,6 +44,6 @@ sections:
         justifyContent: center
     title: Recent Posts
     subtitle: Latest blog posts section example
-    colors: colors-b
+    colors: colors-a
     recentCount: 6
 ---
