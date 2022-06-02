@@ -345,28 +345,6 @@ sections:
             style: primary
             elementId: ''
       - type: FeaturedItem
-        title: Celebration Cookout & Fundraiser
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
-        featuredImage:
-          type: ImageBlock
-          url: /images/smarter.svg
-          altText: Item image
-        styles:
-          self:
-            textAlign: center
-        actions:
-          - type: Button
-            label: Learn more
-            altText: ''
-            url: /
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-      - type: FeaturedItem
         title: Meet & Greet
         text: |
           Sol Aztecas Mexican Restaurant
