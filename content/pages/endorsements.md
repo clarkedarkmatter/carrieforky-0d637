@@ -202,7 +202,7 @@ sections:
     actions:
       - type: Button
         label: Join Team Carrie
-        url: /
+        url: /join
         style: primary
     backgroundImage: null
     styles:
