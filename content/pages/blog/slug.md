@@ -3,7 +3,7 @@ layout: PostLayout
 addTitleSuffix: true
 metaTags: []
 title: Celebration Cookout
-date: '2022-06-01'
+date: '2022-05-31'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
