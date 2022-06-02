@@ -8,7 +8,7 @@ sections:
     title: Carrie Sanders McKeehan
     subtitle: ''
     badge:
-      label: For State Representativer District 41.
+      label: For State Representative - District 41.
       elementId: ''
       styles:
         self:
