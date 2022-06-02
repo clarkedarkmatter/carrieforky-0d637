@@ -303,7 +303,7 @@ sections:
     type: FaqSection
     actions:
       - type: Button
-        label: View All Issues
+        label: Join Team Carrie
         altText: ''
         url: /issues
         showIcon: false
