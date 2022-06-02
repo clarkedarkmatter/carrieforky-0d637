@@ -62,13 +62,18 @@ sections:
     colors: colors-a
     title: The Section Title
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      I love my hometown of Louisville and I have had a heart for serving our 
+
+      community for decades. I'm a mom to a teenage son, and a passionate, 
+
+      special education teacher with [Breckinridge Metropolitan High
+      School](https://www.jefferson.kyschools.us/schools/profiles/breckinridge-metropolitan-high)
+      in Jefferson County Public Schools.
+
+
+
+
     styles:
       self:
         height: auto
