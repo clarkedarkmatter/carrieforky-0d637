@@ -49,7 +49,7 @@ sections:
     elementId: ''
     colors: colors-h
     variant: variant-a
-    title: lorem-ipsum
+    title: Carri
     subtitle: lorem-ipsum
     testimonials:
       - type: Testimonial
