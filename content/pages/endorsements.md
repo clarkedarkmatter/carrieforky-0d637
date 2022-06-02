@@ -5,7 +5,6 @@ sections:
   - elementId: ''
     colors: colors-a
     title: She's Been Endorsed By Local Leaders
-    subtitle: And people love Carrie!
     media:
       type: ImageBlock
       url: /images/278580495_117612420904059_6501407623324236459_n.jpg
