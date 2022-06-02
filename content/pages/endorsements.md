@@ -201,7 +201,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: Join Team Carrie
         url: /
         style: primary
     backgroundImage: null
