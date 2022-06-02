@@ -158,7 +158,7 @@ sections:
         title: Kentucky State Representative - House District 49
         image:
           type: ImageBlock
-          url: /images/carla.jpg
+          url: /images/278615549_116572531008048_2445199668254025929_n.jpg
           altText: Photo of Carla Rogers
     styles:
       self:
