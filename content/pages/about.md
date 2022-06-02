@@ -66,14 +66,17 @@ sections:
       Carrie loves her hometown of Louisville and has had a heart for serving
       our
 
-      community for decades. 
+      community for decades.
 
 
-      Carrie is a mom to a teenage son and a passionate 
+      Carrie is a mom to a teenage son and a passionate
 
       special education teacher with [Breckinridge Metropolitan High
       School](https://www.jefferson.kyschools.us/schools/profiles/breckinridge-metropolitan-high)
       in Jefferson County Public Schools.
+
+
+      When it comes to serving others, Carrie has what it takes.
     styles:
       self:
         height: auto
