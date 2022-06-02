@@ -427,7 +427,7 @@ sections:
     backgroundSize: inset
     title: Stay In The Race
     text: |
-      Enter your email to receive updates from the campaign!
+      Enter a mobile number or email to receive updates from the campaign!
     form:
       type: FormBlock
       variant: variant-b
