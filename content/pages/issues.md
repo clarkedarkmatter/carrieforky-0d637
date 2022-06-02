@@ -98,12 +98,6 @@ sections:
           increases. Carrie will support any legislation that will bring good
 
           jobs to the 41st District.
-      - question: How is this different from what we have today?
-        answer: >-
-          At the office, working together is often a distraction, on remote, it
-          could be motivation, At the office, working together is often a
-          distraction, on remote, it could be motivation, At the office, working
-          together is often a distraction, on remote, it could be motivation
     styles:
       self:
         height: auto
