@@ -500,7 +500,6 @@ sections:
       styles:
         self:
           opacity: 100
-socialImage: /images/277576841_111378834860751_6970880646401486249_n-fb31f573.jpg
 metaTitle: Carrie For State Rep.
 metaDescription: Campaign Home Page For Carrie Sanders McKeehan for State Representative
 ---
