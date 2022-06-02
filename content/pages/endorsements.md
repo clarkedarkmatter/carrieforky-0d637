@@ -35,9 +35,13 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-h
-    quote: >-
-      ## Being part of this team has been incredible. We’ve fill each other’s
-      gaps, and we go to lunch together
+    quote: >+
+      ## "I wholly and wholeheartedly endorse Carrie's candidacy. She is a
+      brilliant problem solver and leader. Her background as a mom and educator
+      uniquely position her to understand family and community needs. She is
+      bright, articulate and trustworthy. &#xA;Kentucky needs her insight,
+      activism and commitment in Frankfort."
+
     name: Carla Rogers
     title: Someone from the team
     styles:
