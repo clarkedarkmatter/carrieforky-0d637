@@ -154,7 +154,7 @@ sections:
       - quote: >
           "Please support Carrie in her run for State Representative! She will
           work hard for you and have a great presence in the House!"
-        name: Carla Rogers
+        name: ' Thomas Huff'
         title: Happy customer
         image:
           type: ImageBlock
