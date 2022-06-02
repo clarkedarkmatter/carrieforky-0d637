@@ -242,7 +242,7 @@ sections:
     elementId: ''
     title: First Priorities - Carrie On The Issues
     items:
-      - question: What can we do to keep
+      - question: What can we do to keep our kids safe?
         answer: >
           At the office, working together is often a distraction, on remote, it
           could be motivation, At the office, working together is often a
