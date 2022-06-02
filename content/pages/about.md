@@ -8,7 +8,7 @@ sections:
     elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: Who
+    title: Who Is Carrie?
     subtitle: ''
     badge:
       label: This is the badge
