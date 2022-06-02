@@ -30,7 +30,7 @@ sections:
 
 
       *   Carrie can easily achieve **better legislative results** than her
-      incumbent opponent and can **better represent the diverse **perspectives
+      incumbent opponent and can \*\*better represent the diverse perspectives
       in District 41.
 
     actions:
