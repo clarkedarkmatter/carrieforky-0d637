@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-a
-    title: She's Been Endorsed By Local Leaders
+    title: She's Endorsed By Local Leaders
     media:
       type: ImageBlock
       url: /images/277576841_111378834860751_6970880646401486249_n-fb31f573.jpg
