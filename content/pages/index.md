@@ -89,7 +89,7 @@ sections:
       - type: Button
         label: Contribute To Carrie
         url: 'https://secure.winred.com/carrie-for-state-representative/donate'
-        style: secondary
+        style: primary
       - type: Link
         label: Watch Video On Youtube
         url: 'https://www.youtube.com/watch?v=No-H-mBGYYM'
