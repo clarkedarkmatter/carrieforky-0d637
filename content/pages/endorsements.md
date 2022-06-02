@@ -195,7 +195,7 @@ sections:
     elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: We Can Turn Flip This District Red
+    title: We Can Turn Flip This District
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
