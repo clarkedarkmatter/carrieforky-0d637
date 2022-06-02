@@ -41,7 +41,7 @@ sections:
           placeholder: Your home address
           isRequired: 'false'
           width: full
-          label: Home Address
+          label: Shipping Address
         - type: CheckboxFormControl
           name: sign
           label: I Want A Carrie Sanders McKeehan Sign
