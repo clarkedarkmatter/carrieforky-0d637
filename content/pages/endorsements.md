@@ -42,7 +42,7 @@ sections:
       bright, articulate and trustworthy. Kentucky needs her insight, activism
       and commitment in Frankfort."
 
-    name: Carla Rogers
+    name: Cecil Blye
     title: Someone from the team
     styles:
       self:
