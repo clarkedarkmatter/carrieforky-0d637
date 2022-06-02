@@ -74,7 +74,7 @@ sections:
           altText: Person photo
       - type: Testimonial
         quote: "## \"I’m honored to proudly stand in formally endorsing Carrie Sanders McKeehan as State Representative of the 41st District.\_ Carrie will be an effective leader who will be a TRUE voice in Frankfort, making a positive impact on her district and state.\"\n\n"
-        name: Johnna Doe
+        name: Ryan Dotson
         title: Product Marketing Manager at Acme
         image:
           url: /images/image4-27adc931.webp
