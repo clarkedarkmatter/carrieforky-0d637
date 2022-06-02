@@ -60,7 +60,7 @@ sections:
   - type: TextSection
     elementId: ''
     colors: colors-e
-    title: Louisvill
+    title: Louisville Is Home.
     subtitle: ''
     text: >
       Carrie loves her hometown of Louisville and has had a heart for serving
