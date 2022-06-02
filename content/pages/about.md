@@ -9,7 +9,7 @@ sections:
     variant: variant-c
     colors: colors-h
     title: Who Is Carrie Sanders McKeehan?
-    subtitle: Featured people section example
+    subtitle: 'Carrie is a mother, '
     actions: []
     people:
       - content/data/team/desmond-eagle.json
