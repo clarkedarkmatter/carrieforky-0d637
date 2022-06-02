@@ -22,7 +22,7 @@ sections:
       served at high levels in multiple organizations. 
     actions:
       - type: Button
-        label: Sign Up
+        label: Join A Movement
         url: /
         style: primary
     media:
