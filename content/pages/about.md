@@ -31,6 +31,7 @@ sections:
     media:
       type: ImageBlock
       altText: Hero image
+      url: /images/242499081_4260379027343947_1488516747194251273_n.jpg
     styles:
       self:
         height: auto
