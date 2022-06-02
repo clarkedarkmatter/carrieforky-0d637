@@ -36,7 +36,7 @@ sections:
   - elementId: ''
     colors: colors-h
     quote: >+
-      ## "I wholly and wholeheartedly endorse Carrie's candidacy. She is a
+      ### "I wholly and wholeheartedly endorse Carrie's candidacy. She is a
       brilliant problem solver and leader. Her background as a mom and educator
       uniquely position her to understand family and community needs. She is
       bright, articulate and trustworthy. Kentucky needs her insight, activism
