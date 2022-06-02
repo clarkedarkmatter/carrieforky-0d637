@@ -320,32 +320,6 @@ sections:
     title: Upcoming Events
     items:
       - type: FeaturedItem
-        title: Meet & Greet
-        text: |
-          Sol Aztecas Mexican Restaurant
-
-          **
-          5:30 - 7:00 - June 6**
-
-          **RSVP on Facebook**
-        featuredImage:
-          type: ImageBlock
-          url: /images/285449423_130719856259982_5853190831616338235_n.jpg
-          altText: Item image
-        styles:
-          self:
-            textAlign: center
-        actions:
-          - type: Button
-            label: Learn more
-            altText: ''
-            url: 'https://www.facebook.com/events/703669350748722'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-      - type: FeaturedItem
         title: Weekly Breakfast & Fundraiser
         text: >
           Join Carrie and her team EVERY Saturday until the election for a
