@@ -9,7 +9,7 @@ sections:
     colors: colors-a
     title: Join Team Carrie
     text: |
-      We look forward to hearing from you.
+      Or Just Ask Us A Question!
     form:
       type: FormBlock
       variant: variant-a
