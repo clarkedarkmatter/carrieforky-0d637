@@ -11,7 +11,7 @@ sections:
           could be motivation, At the office, working together is often a
           distraction, on remote, it could be motivation, At the office, working
           together is often a distraction, on remote, it could be motivation
-        question: H
+        question: What about education reform?
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distraction, on remote, it
