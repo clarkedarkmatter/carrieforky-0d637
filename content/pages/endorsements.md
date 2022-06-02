@@ -49,7 +49,7 @@ sections:
     elementId: ''
     colors: colors-h
     variant: variant-a
-    title: Carri
+    title: Carrie Is Endorsed By Leadership Around Our Community
     subtitle: lorem-ipsum
     testimonials:
       - type: Testimonial
