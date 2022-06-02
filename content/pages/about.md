@@ -16,9 +16,10 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >-
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: >
+      Carrie is a Christian, an educator, a mother and a community leader. She
+      has designed and written curriculum for programs in our community and
+      served at high levels in multiple organizations. 
     actions:
       - type: Button
         label: Sign Up
