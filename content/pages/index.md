@@ -305,7 +305,7 @@ sections:
       - type: Button
         label: Join Team Carrie
         altText: ''
-        url: /issues
+        url: /join
         showIcon: false
         icon: arrowRight
         iconPosition: right
