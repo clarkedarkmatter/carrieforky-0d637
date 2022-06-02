@@ -437,7 +437,7 @@ sections:
           name: phone
           label: Phone Number
           hideLabel: false
-          placeholder: 'Your '
+          placeholder: Your phone number
           isRequired: false
           width: full
       submitLabel: Sign Up
