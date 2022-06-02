@@ -87,7 +87,7 @@ sections:
 
 
           ![](/images/281000194\_125168336815134\_3411034341188653761\_n.jpg)
-      - question: What about inflation?
+      - question: What about spending and inflation?
         answer: >
           Carrie will fight for lower business taxes and lower gas taxes -
           especially in this period of rapid inflation. I will fight for
