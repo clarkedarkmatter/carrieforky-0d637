@@ -43,7 +43,7 @@ sections:
       and commitment in Frankfort."
 
     name: Cecil Blye
-    title: Someone from the team
+    title: 'Pastor & President, More Grace Ministries, Inc.'
     styles:
       self:
         height: auto
