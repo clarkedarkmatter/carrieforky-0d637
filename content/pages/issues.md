@@ -76,8 +76,14 @@ sections:
 
           I don’t believe governments or businesses should make medical
           decisions that affect you or your family in any way, shape, or form. 
-          I don't agree that someone should lose their job due to their COVID-19
-          vaccination status.
+          I believe in true medical freedom - an employer shouldn't be able to
+          force a COVID vaccination as a condition of employment.
+
+
+          Read my questions to the candidate questionnaire by KMFC by [clicking
+          here](https://docs.google.com/spreadsheets/d/1iaXySM1giVXCTJ77tb34YyGQ3YdA0CFqfhlIjycDTfQ/htmlview?fbclid=IwAR3uUnXL5vTk3hYRY5Rk0EOhJhFoSSciJVJD2HwH1nZVAjQdk4ueutmoQtU#gid=0).
+          View on KMFC's site @
+          [https://www.kmfc.org/candidates.](https://www.kmfc.org/candidates)
 
 
           ![](/images/281000194\_125168336815134\_3411034341188653761\_n.jpg)
