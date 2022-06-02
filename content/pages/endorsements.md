@@ -196,8 +196,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Carrie Needs Your Help
-    text: |
-      Carrie is a tireless leader and a candidate you can be proud to vote for.
+    text: >
+      Carrie is a tireless leader and a candidate you can be proud to vote for -
+      but she needs our help to grow her campaign!
     actions:
       - type: Button
         label: Join Team Carrie
