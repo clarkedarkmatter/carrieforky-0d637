@@ -122,7 +122,7 @@ sections:
       things done in her electorate. When I say what you see is what you get,
       this is who you are getting."
 
-    name: Cecil Blye
+    name: Jeremy Tai
     title: 'Pastor & President, More Grace Ministries, Inc.'
     styles:
       self:
