@@ -107,11 +107,13 @@ sections:
         showIcon: true
         icon: arrowRight
     items:
-      - answer: >-
-          At the office, working together is often a distraction, on remote, it
-          could be motivation. At the office, working together is often a
-          distraction, on remote, it could be motivation. At the office, working
-          together is often a distraction, on remote, it could be motivation.
+      - answer: >
+          I am a former
+           social worker, where I worked with low-income families and 
+          single-parent homes and helped them become self-sufficient. I've
+          worked 
+
+          with childcare facilities and after-school programs.
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distraction, on remote, it
