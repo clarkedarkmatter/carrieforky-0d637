@@ -57,7 +57,6 @@ sections:
     colors: colors-e
     variant: variant-a
     title: Carrie Is Endorsed By Leaders Around Our Community
-    subtitle: lorem-ipsum
     testimonials:
       - type: Testimonial
         quote: >+
