@@ -41,7 +41,7 @@ sections:
           could be motivation, At the office, working together is often a
           distraction, on remote, it could be motivation, At the office, working
           together is often a distraction, on remote, it could be motivation
-      - question: How do you feel about vaccinations?
+      - question: How do you feel about mandatory vaccinations?
         answer: >
           While I encourage all to get the vaccine if they are able, I will
           always fight for the freedom to say 'No' to a vaccine.
