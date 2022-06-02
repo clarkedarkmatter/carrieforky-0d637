@@ -88,11 +88,13 @@ sections:
 
           ![](/images/281000194\_125168336815134\_3411034341188653761\_n.jpg)
       - question: What about inflation?
-        answer: >-
-          At the office, working together is often a distraction, on remote, it
-          could be motivation, At the office, working together is often a
-          distraction, on remote, it could be motivation, At the office, working
-          together is often a distraction, on remote, it could be motivation
+        answer: >
+          Carrie will fight for lower business taxes and lower gas taxes -
+          especially in this period of rapid inflation. I will fight for
+          lowering state income tax and pledge to vote against all tax
+          increases. Carrie will support any legislation that will bring good 
+
+          jobs to the 41st District.
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distraction, on remote, it
