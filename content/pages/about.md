@@ -107,8 +107,7 @@ sections:
         showIcon: true
         icon: arrowRight
     items:
-      - question: Where
-        answer: >-
+      - answer: >-
           At the office, working together is often a distraction, on remote, it
           could be motivation. At the office, working together is often a
           distraction, on remote, it could be motivation. At the office, working
