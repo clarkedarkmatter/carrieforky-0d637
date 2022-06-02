@@ -13,12 +13,14 @@ sections:
 
           Studies suggest that If your child cannot read by the 3rd grade, it
 
-          gets substantially harder for them to be successful in reading. 
+          gets substantially harder for them to be successful in reading. We
+          need more focus on literacy, earlier in the developmental cycle of our
+          students. 
 
 
           **School Safety**: We need student resource officers (SRO's) back in
           our district. Our children's lives are too important to be left to
-          chance. 
+          chance.
 
 
           **School Choice**: Students and parents should have the ability to
