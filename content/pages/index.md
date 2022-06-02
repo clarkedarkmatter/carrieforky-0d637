@@ -449,7 +449,7 @@ sections:
           placeholder: Your phone number
           isRequired: false
           width: full
-      submitLabel: Let's Go!
+      submitLabel: I'm In!
       styles:
         submitLabel:
           textAlign: center
