@@ -108,13 +108,14 @@ sections:
         textAlign: center
   - elementId: ''
     colors: colors-e
-    quote: >+
-      ### "I wholly and wholeheartedly endorse Carrie's candidacy. She is a
-      brilliant problem solver and leader. Her background as a mom and educator
-      uniquely position her to understand family and community needs. She is
-      bright, articulate and trustworthy. Kentucky needs her insight, activism
-      and commitment in Frankfort."
+    quote: >
+      “When you vote for Carrie, this is who she is. She is courageous to be
+      embarking in this line of work. But I believe in her conviction and if she
+      is elected, she will be taking the time to get to know you. She is
+      approachable and has an empathetic ear. And she will do all she can to 
 
+      get things done in her electorate. When I say what you see is what you
+      get, this is who you are getting."
     name: Cecil Blye
     title: 'Pastor & President, More Grace Ministries, Inc.'
     styles:
