@@ -34,7 +34,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    colors: colors-h
+    colors: colors-e
     quote: >+
       ### "I wholly and wholeheartedly endorse Carrie's candidacy. She is a
       brilliant problem solver and leader. Her background as a mom and educator
