@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    title: 'Carrie '
+    title: Carrie Sanders McKeehan
     subtitle: ''
     badge:
       label: Character. Hope. Our District.
