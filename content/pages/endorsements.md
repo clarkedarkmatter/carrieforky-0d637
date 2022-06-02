@@ -195,7 +195,7 @@ sections:
     elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: We Can Turn This Around
+    title: Carrie Needs Your Help
     text: |
       Carrie is a tireless leader and a candidate you can be proud to vote for.
     actions:
