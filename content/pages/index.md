@@ -444,7 +444,7 @@ sections:
           type: EmailFormControl
         - type: TextFormControl
           name: phone
-          label: Phone Number
+          label: Mobile Number
           hideLabel: false
           placeholder: Your phone number
           isRequired: false
