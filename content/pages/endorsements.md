@@ -66,7 +66,7 @@ sections:
           needs. She is bright, articulate and trustworthy. Kentucky needs her
           insight, activism and commitment in Frankfort."
 
-        name: Johnna Doe
+        name: Cecil Blye
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
