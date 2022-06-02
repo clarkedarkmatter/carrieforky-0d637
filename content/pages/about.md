@@ -60,7 +60,7 @@ sections:
   - type: TextSection
     elementId: ''
     colors: colors-a
-    title: Home
+    title: 'Hometown '
     subtitle: ''
     text: >+
       I love my hometown of Louisville and I have had a heart for serving our 
