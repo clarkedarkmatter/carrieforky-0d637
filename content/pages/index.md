@@ -242,7 +242,7 @@ sections:
     elementId: ''
     title: First Priorities - Carrie On The Issues
     items:
-      - question: What can we do to stop violent crime?
+      - question: What can we do to keep
         answer: >
           At the office, working together is often a distraction, on remote, it
           could be motivation, At the office, working together is often a
