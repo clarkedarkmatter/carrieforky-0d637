@@ -8,7 +8,7 @@ sections:
     title: Carrie Sanders McKeehan
     subtitle: ''
     badge:
-      label: Character. Hope. Our District.
+      label: Character Counts For District 41.
       elementId: ''
       styles:
         self:
