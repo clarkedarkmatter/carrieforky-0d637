@@ -6,11 +6,22 @@ sections:
     elementId: ''
     title: 'Carrie Cares About Solving Our Biggest Problems, Sooner!'
     items:
-      - answer: >-
-          At the office, working together is often a distraction, on remote, it
-          could be motivation, At the office, working together is often a
-          distraction, on remote, it could be motivation, At the office, working
-          together is often a distraction, on remote, it could be motivation
+      - answer: >
+          I’m the only candidate for medical freedom.
+
+
+          I don’t believe governments or businesses should make medical
+          decisions
+
+          that affect you or your family in any way, shape, or form. The
+          pandemic
+
+          opened my eyes to the corruption around me. I didn’t agree with the 
+
+          Mandates and saw how our liberties and rights were being stripped
+          away 
+
+          right before our own very eyes.
         question: What about education reform?
       - question: How is this different from what we have today?
         answer: >-
