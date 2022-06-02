@@ -6,6 +6,17 @@ sections:
     elementId: ''
     title: 'Carrie Cares About Solving Our Biggest Problems, Sooner!'
     items:
+      - question: What about spending and inflation?
+        answer: >
+          We should be very careful about our government spending right now. 
+
+
+          Carrie will fight for lower business taxes and lower gas taxes -
+          especially in this period of rapid inflation. I will fight for
+          lowering state income tax and pledge to vote against all tax
+          increases. Carrie will support any legislation that will bring good
+
+          jobs to the 41st District.
       - question: What's an issue we can all rally behind?
         answer: >
           **Investing In Literacy**: Reading is an essential life skill.
@@ -57,17 +68,6 @@ sections:
 
 
           ![](/images/281000194\_125168336815134\_3411034341188653761\_n.jpg)
-      - question: What about spending and inflation?
-        answer: >
-          We should be very careful about our government spending right now. 
-
-
-          Carrie will fight for lower business taxes and lower gas taxes -
-          especially in this period of rapid inflation. I will fight for
-          lowering state income tax and pledge to vote against all tax
-          increases. Carrie will support any legislation that will bring good
-
-          jobs to the 41st District.
     styles:
       self:
         height: auto
