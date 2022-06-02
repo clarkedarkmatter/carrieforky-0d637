@@ -67,7 +67,7 @@ sections:
           insight, activism and commitment in Frankfort."
 
         name: Cecil Blye
-        title: Product Marketing Manager at Acme
+        title: 'Pastor & President, More Grace Ministries, Inc.'
         image:
           type: ImageBlock
           url: /images/277576841_111378834860751_6970880646401486249_n-fb31f573.jpg
