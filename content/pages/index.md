@@ -244,10 +244,8 @@ sections:
     items:
       - question: What can we do to keep our kids safe?
         answer: >
-          At the office, working together is often a distraction, on remote, it
-          could be motivation, At the office, working together is often a
-          distraction, on remote, it could be motivation, At the office, working
-          together is often a distraction, on remote, it could be motivation
+          We need student resource officers (SRO's) back in our district. Our
+          children are too important to be left unprotected.
 
 
           ![](/images/278571611\_119086514089983\_2838702641208173329\_n.jpg)
