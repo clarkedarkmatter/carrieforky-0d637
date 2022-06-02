@@ -59,7 +59,7 @@ sections:
           width: full
         - type: CheckboxFormControl
           name: phone
-          label: I'll Help Make Phone Calls
+          label: I'll Help Text Or Make Phone Calls
           isRequired: false
           width: full
       submitLabel: Send Message
