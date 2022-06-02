@@ -60,8 +60,7 @@ sections:
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-person.png
+          url: /images/277576841_111378834860751_6970880646401486249_n-fb31f573.jpg
           altText: Person photo
     styles:
       self:
