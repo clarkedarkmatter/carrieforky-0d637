@@ -7,7 +7,7 @@ sections:
     title: She's Been Endorsed By Local Leaders
     media:
       type: ImageBlock
-      url: /images/278580495_117612420904059_6501407623324236459_n.jpg
+      url: /images/277576841_111378834860751_6970880646401486249_n-fb31f573.jpg
       altText: Hero section image
     styles:
       self:
