@@ -155,7 +155,7 @@ sections:
           "Please support Carrie in her run for State Representative! She will
           work hard for you and have a great presence in the House!"
         name: ' Thomas Huff'
-        title: Happy customer
+        title: 'Kentucky State Representative - House District '
         image:
           type: ImageBlock
           url: /images/carla.jpg
