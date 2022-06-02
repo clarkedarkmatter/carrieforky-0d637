@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    title: Carrie Cares.
+    title: Carrie+
     subtitle: ''
     badge:
       label: Character. Hope. Our District.
