@@ -15,7 +15,7 @@ sections:
       variant: variant-a
       elementId: contact-form
       action: /.netlify/functions/submission_created
-      destination: ''
+      destination: clarke
       fields:
         - type: TextFormControl
           name: name
