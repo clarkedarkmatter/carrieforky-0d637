@@ -414,7 +414,7 @@ sections:
       actions:
         justifyContent: center
   - type: ContactSection
-    colors: colors-f
+    colors: colors-h
     backgroundSize: inset
     title: Stay In The Race
     text: |
