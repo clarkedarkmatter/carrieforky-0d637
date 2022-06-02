@@ -131,12 +131,6 @@ sections:
           Family Association](https://www.afa.net/). Carrie has served as an
           event planner for events and fundraisers for each of the groups and
           served the community through outreach.
-      - question: How is this different from what we have today?
-        answer: >-
-          At the office, working together is often a distraction, on remote, it
-          could be motivation. At the office, working together is often a
-          distraction, on remote, it could be motivation. At the office, working
-          together is often a distraction, on remote, it could be motivation.
     styles:
       self:
         height: auto
