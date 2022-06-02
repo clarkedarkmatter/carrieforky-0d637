@@ -63,7 +63,7 @@ sections:
           width: full
         - type: CheckboxFormControl
           name: updates
-          label: 'All Of The Above! :)'
+          label: All Of The Above!
           isRequired: false
           width: full
       submitLabel: Send Message
