@@ -49,7 +49,7 @@ sections:
         answer: >
           **School Safety**: We need student resource officers (SRO's) back in
           our district. Our children are too important to be left unprotected.
-      - question: How is this different from what we have today?
+      - question: What about public vs. private schools?
         answer: >-
           At the office, working together is often a distraction, on remote, it
           could be motivation, At the office, working together is often a
