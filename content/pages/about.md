@@ -59,7 +59,7 @@ sections:
         justifyContent: flex-start
   - type: TextSection
     elementId: ''
-    colors: colors-a
+    colors: colors-e
     title: Hometown  of Louisville
     subtitle: ''
     text: >+
