@@ -377,7 +377,7 @@ sections:
           **RSVP on Facebook**
         featuredImage:
           type: ImageBlock
-          url: /images/focused.svg
+          url: /images/285449423_130719856259982_5853190831616338235_n.jpg
           altText: Item image
         styles:
           self:
