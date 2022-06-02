@@ -423,7 +423,7 @@ sections:
       type: FormBlock
       variant: variant-b
       elementId: sign-up-form
-      destination: bluejaystartup@gmail.com
+      destination: 'bluejaystartup@gmail.com,carrieforky@gmail.com'
       action: /.netlify/functions/submission_created
       fields:
         - name: email
