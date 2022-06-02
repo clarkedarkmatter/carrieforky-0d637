@@ -119,7 +119,7 @@
                 "type": "Link",
                 "label": "About",
                 "altText": "",
-                "url": "/",
+                "url": "/about",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
