@@ -117,7 +117,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "About",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
