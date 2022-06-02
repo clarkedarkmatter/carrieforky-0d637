@@ -98,7 +98,7 @@ sections:
   - type: FaqSection
     colors: colors-a
     elementId: ''
-    title: Ask
+    title: Ask Carrie.
     subtitle: The section subtitle
     actions:
       - type: Link
