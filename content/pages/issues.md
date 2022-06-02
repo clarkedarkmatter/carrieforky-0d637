@@ -26,7 +26,7 @@ sections:
            just means not all students thrive in public schools and options should
            be available to all students regardless of their social economic 
           backgrounds.
-        question: What about education reform?
+        question: How
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distraction, on remote, it
