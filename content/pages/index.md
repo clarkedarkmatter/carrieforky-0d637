@@ -305,7 +305,7 @@ sections:
       - type: Button
         label: More On The Issues
         altText: ''
-        url: /
+        url: /issues
         showIcon: false
         icon: arrowRight
         iconPosition: right
