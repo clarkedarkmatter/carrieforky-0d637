@@ -48,7 +48,7 @@ sections:
           isRequired: 'false'
           width: full
         - type: CheckboxFormControl
-          name: updates
+          name: shirt
           label: I Want A T-Shirt
           isRequired: false
           width: full
