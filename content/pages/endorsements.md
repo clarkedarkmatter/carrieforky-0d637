@@ -2,55 +2,6 @@
 title: Endorsements
 layout: PageLayout
 sections:
-  - type: ContactSection
-    elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: Stay In The Loop
-    text: |
-      Enter An Email Or Mobile Phone Number To Get Updates From The Campaign.
-    form:
-      type: FormBlock
-      variant: variant-b
-      elementId: sign-up-form
-      action: /.netlify/functions/submission_created
-      destination: bluejaystartup@gmail.com
-      fields:
-        - type: EmailFormControl
-          name: email
-          placeholder: Your email
-          isRequired: 'true'
-          width: full
-        - type: TextFormControl
-          name: home-address
-          label: Mobile number
-          hideLabel: false
-          placeholder: Your phone number
-          isRequired: false
-          width: full
-      submitLabel: Sign Up
-    media: null
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-10
-          - pb-14
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: center
-      text:
-        textAlign: center
   - type: TestimonialsSection
     elementId: ''
     colors: colors-a
