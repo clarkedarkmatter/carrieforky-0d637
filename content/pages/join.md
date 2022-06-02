@@ -21,7 +21,7 @@ sections:
           name: name
           label: Name
           placeholder: Your name
-          isRequired: 'true'
+          isRequired: true
           width: 1/2
         - type: TextFormControl
           name: home-address
