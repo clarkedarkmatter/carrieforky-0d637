@@ -58,7 +58,7 @@ sections:
           isRequired: false
           width: full
         - type: CheckboxFormControl
-          name: updates
+          name: phone
           label: I'll Help Make Phone Calls
           isRequired: false
           width: full
