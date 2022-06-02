@@ -8,7 +8,7 @@ sections:
     elementId: ''
     variant: variant-c
     colors: colors-h
-    title: Who
+    title: Who Is Carrie Sanders McKeehan?
     subtitle: Featured people section example
     actions: []
     people:
