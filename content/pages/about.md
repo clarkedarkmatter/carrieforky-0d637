@@ -102,7 +102,7 @@ sections:
     subtitle: Submit A Question To Carrie Below.
     actions:
       - type: Link
-        label: See all
+        label: Send A Message
         url: /join
         showIcon: true
         icon: arrowRight
