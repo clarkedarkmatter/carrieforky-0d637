@@ -43,8 +43,11 @@ sections:
           together is often a distraction, on remote, it could be motivation
       - question: How do you feel about vaccinations?
         answer: >
-          While I encourage all to get the vaccine if they are able, I’m the
-          only candidate for medical freedom.
+          While I encourage all to get the vaccine if they are able, I will
+          always fight for the freedom to say 'No' to a vaccine.
+
+
+          I’m the only candidate for medical freedom.
 
 
           I don’t believe governments or businesses should make medical
