@@ -26,7 +26,7 @@ sections:
           name: home-address
           label: Mobile number
           hideLabel: false
-          placeholder: Your home address
+          placeholder: Your phone number
           isRequired: false
           width: full
       submitLabel: Sign Up
