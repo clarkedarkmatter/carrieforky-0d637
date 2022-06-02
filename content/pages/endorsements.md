@@ -106,9 +106,10 @@ sections:
     title: ''
     subtitle: ''
     testimonials:
-      - quote: >
-          "Please support Carrie in her run for State Representative! She will
-          work hard for you and have a great presence in the House!"
+      - quote: >+
+          ## "Please support Carrie in her run for State Representative! She
+          will work hard for you and have a great presence in the House!"
+
         name: ' Thomas Huff'
         title: Kentucky State Representative - House District 49
         image:
