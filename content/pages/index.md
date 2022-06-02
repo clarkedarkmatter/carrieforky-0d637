@@ -416,7 +416,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    subtitle: 'Join Carrie at her next '
+    subtitle: Join Carrie at her next meeting
   - type: RecentPostsSection
     elementId: ''
     showDate: false
