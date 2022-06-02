@@ -134,7 +134,7 @@ sections:
       controls: true
       aspectRatio: '16:9'
       elementId: ''
-    subtitle: Servant Leadership
+    subtitle: Hope.
   - colors: colors-a
     elementId: ''
     images:
