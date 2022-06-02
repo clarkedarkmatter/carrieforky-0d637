@@ -196,9 +196,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: We Can Turn This Around
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      Carrie is a tireless leader and a candidate you can be proud to vote for. 
     actions:
       - type: Button
         label: Join Team Carrie
