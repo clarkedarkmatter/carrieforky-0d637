@@ -53,7 +53,7 @@ sections:
           isRequired: false
           width: full
         - type: CheckboxFormControl
-          name: updates
+          name: doors
           label: I'll Help Knock On Doors
           isRequired: false
           width: full
