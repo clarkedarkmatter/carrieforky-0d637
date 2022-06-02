@@ -7,9 +7,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Stay In The Loop
-    text: >-
-      Sign up your team today to be the first to try out our new product to
-      increase your team's productivity.
+    text: |
+      Enter An Email Or Text-able Phone Number To Get Updates From The Campaign.
     form:
       type: FormBlock
       variant: variant-b
