@@ -121,7 +121,7 @@ sections:
           connect the school with the community, build and support a successful 
 
           faculty and develop systems for student success.
-        question: 'What''s Carrie''s Work Experience? '
+        question: 'What''s Carrie''s Work History? '
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distraction, on remote, it
