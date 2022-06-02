@@ -8,7 +8,7 @@ sections:
     title: Carrie Sanders McKeehan
     subtitle: ''
     badge:
-      label: Fighting for the Great people of Kentucky's 41st district.
+      label: Fighting for the Great people of Kentucky's 41st district
       elementId: ''
       styles:
         self:
