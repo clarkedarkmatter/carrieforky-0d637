@@ -48,8 +48,7 @@ sections:
       - question: How can we better protect our students?
         answer: >
           **School Safety**: We need student resource officers (SRO's) back in
-          our district. Our children's lives are too important to be left
-          vulnerable.
+          our district. Our children are too important to be left unprotected.
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distraction, on remote, it
