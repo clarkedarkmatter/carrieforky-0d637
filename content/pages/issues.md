@@ -122,7 +122,7 @@ sections:
         label: Read Endorsements
         showIcon: true
         icon: arrowRight
-        url: /
+        url: /endorsements
         style: link
     backgroundImage: null
     styles:
