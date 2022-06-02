@@ -25,7 +25,7 @@ sections:
       She is fighting for our voice in Frankfort.
     actions:
       - type: Button
-        label: Join A Movement
+        label: Join Carrie Today
         url: /
         style: primary
     media:
