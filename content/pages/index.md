@@ -303,6 +303,15 @@ sections:
     type: FaqSection
     actions:
       - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Button
         label: I'm Ready To Join Team Carrie
         altText: ''
         url: /join
