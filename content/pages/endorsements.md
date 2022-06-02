@@ -24,7 +24,7 @@ sections:
           width: full
         - type: TextFormControl
           name: home-address
-          label: Home address
+          label: Mobile number
           hideLabel: false
           placeholder: Your home address
           isRequired: false
