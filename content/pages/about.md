@@ -108,12 +108,19 @@ sections:
         icon: arrowRight
     items:
       - answer: >
-          I am a former
-           social worker, where I worked with low-income families and 
-          single-parent homes and helped them become self-sufficient. I've
-          worked 
+          My passion has been focused primarily on education. With
+          [JCPS](https://www.jefferson.kyschools.us/),
+           I work with troubled teens who are removed from the comprehensive 
+          schools, helping to provide support for their next steps. I also
+          serve 
 
-          with childcare facilities and after-school programs.
+          as an Associate Principal with Pastor Cecil Blye's “[More Grace
+          Christian
+          Academy](https://www.trulia.com/schools/KY-louisville-more_grace_christian_academy-5700090973)”,
+           an inner city private school. I was hired to help build a curriculum, 
+          connect the school with the community, build and support a successful 
+
+          faculty and develop systems for student success.
         question: 'What''s Carrie''s Work Experience? '
       - question: How is this different from what we have today?
         answer: >-
