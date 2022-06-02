@@ -99,7 +99,7 @@ sections:
     colors: colors-a
     elementId: ''
     title: Ask Carrie.
-    subtitle: The section subtitle
+    subtitle: Submit A Question To Carrie.
     actions:
       - type: Link
         label: See all
