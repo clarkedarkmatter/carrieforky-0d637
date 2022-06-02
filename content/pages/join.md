@@ -43,7 +43,7 @@ sections:
           isRequired: 'false'
           width: full
         - type: CheckboxFormControl
-          name: updates
+          name: sign
           label: I Want A Yard Sign
           isRequired: 'false'
           width: full
