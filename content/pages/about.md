@@ -123,7 +123,14 @@ sections:
           faculty and develop systems for student success.
         question: 'What''s Carrie''s Work History? '
       - question: What Is She Involved In Now?
-        answer: "I continue to volunteer with numerous organizations throughout the city including [Sisters for Life (a pro-life ministry)](https://www.sisforlife.org/), [Constitutional Kentucky](https://constitutionalkentucky.com/), and the [American Family Association](https://www.afa.net/).\n \_I have served as an event planner for events and fundraisers for each \nof the groups and served the community through outreach - feeding the \nhomeless, volunteering for home projects, etc.\n"
+        answer: >
+          Aside from running for State Representative, Carrie continues to
+          volunteer with numerous organizations throughout the city including
+          [Sisters for Life](https://www.sisforlife.org/), [Constitutional
+          Kentucky](https://constitutionalkentucky.com/), and the [American
+          Family Association](https://www.afa.net/). Carrie has served as an
+          event planner for events and fundraisers for each of the groups and
+          served the community through outreach.
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distraction, on remote, it
