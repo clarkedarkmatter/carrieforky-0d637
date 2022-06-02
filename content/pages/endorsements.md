@@ -76,7 +76,7 @@ sections:
         name: Ryan Dotson
         title: Kentucky State Representative - House District 73
         image:
-          url: /images/image4-27adc931.webp
+          url: /images/280413391_124386733559961_1817655490597991610_n-c67ebc4a.jpg
           altText: Person photo
         elementId: ''
         styles:
