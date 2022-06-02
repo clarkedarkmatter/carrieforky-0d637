@@ -15,7 +15,7 @@ sections:
       variant: variant-a
       elementId: contact-form
       action: /.netlify/functions/submission_created
-      destination: clarke
+      destination: clarkehurt09@gmail.com
       fields:
         - type: TextFormControl
           name: name
