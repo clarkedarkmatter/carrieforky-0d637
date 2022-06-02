@@ -249,7 +249,7 @@ sections:
 
 
           ![](/images/278571611\_119086514089983\_2838702641208173329\_n.jpg)
-      - question: How can we lower the cost of living in our area?
+      - question: What about inflation?
         answer: >
           Government spending should be within our means. We should be using our
           tax dollars more efficiently, especially during times of inflation.
