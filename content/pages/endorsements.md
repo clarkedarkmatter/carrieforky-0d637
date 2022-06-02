@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-a
-    title: Carrie Loves People.
+    title: S
     subtitle: And people love Carrie!
     media:
       type: ImageBlock
