@@ -11,7 +11,7 @@ sections:
     title: Who Is Carrie?
     subtitle: ''
     badge:
-      label: 'Educator. '
+      label: Educator. Communicator. Leader.
       elementId: ''
       styles:
         self:
