@@ -38,7 +38,7 @@ sections:
 
           backgrounds.
         question: How can we improve our education system?
-      - question: How is this different from what we have today?
+      - question: What's an issue we can all rally behind?
         answer: >-
           At the office, working together is often a distraction, on remote, it
           could be motivation, At the office, working together is often a
