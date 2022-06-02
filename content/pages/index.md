@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: HeroSection
     elementId: ''
-    colors: colors-f
+    colors: colors-e
     title: Carrie Sanders McKeehan
     subtitle: ''
     badge:
