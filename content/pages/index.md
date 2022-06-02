@@ -87,7 +87,7 @@ sections:
           textAlign: left
     actions:
       - type: Button
-        label: Cn To Carrie
+        label: Contribute To Carrie
         url: /
         style: secondary
       - type: Link
