@@ -303,7 +303,7 @@ sections:
     type: FaqSection
     actions:
       - type: Button
-        label: Learn more
+        label: More On The Issues
         altText: ''
         url: /
         showIcon: false
