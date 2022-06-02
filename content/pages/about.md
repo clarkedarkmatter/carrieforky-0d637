@@ -122,7 +122,7 @@ sections:
 
           faculty and develop systems for student success.
         question: 'What''s Carrie''s Work History? '
-      - question: What Is She Involved In Now?
+      - question: What Else Is She Involved In Now?
         answer: >
           Aside from running for State Representative, Carrie continues to
           volunteer with numerous organizations throughout the city including
