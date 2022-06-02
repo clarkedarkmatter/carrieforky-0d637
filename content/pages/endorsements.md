@@ -6,7 +6,7 @@ sections:
     elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Stay
+    title: Stay In The Loop
     text: >-
       Sign up your team today to be the first to try out our new product to
       increase your team's productivity.
