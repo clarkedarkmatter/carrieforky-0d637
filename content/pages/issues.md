@@ -45,7 +45,7 @@ sections:
           harder for them to be successful in reading later on in life. We need
           more focus on literacy, earlier in the developmental cycle to help our
           students be more successful.
-      - question: How can we protect our students?
+      - question: How can we better protect our students?
         answer: >-
           At the office, working together is often a distraction, on remote, it
           could be motivation, At the office, working together is often a
