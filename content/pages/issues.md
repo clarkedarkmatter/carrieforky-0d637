@@ -119,7 +119,7 @@ sections:
         url: /join
         style: primary
       - type: Button
-        label: Learn More
+        label: Read Endorsements
         showIcon: true
         icon: arrowRight
         url: /
