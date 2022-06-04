@@ -371,10 +371,9 @@ sections:
         elementId: ''
         title: Weekly Breakfast & Fundraiser
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Join Carrie and her team every Saturday until the election for a
+          breakfast and fundraiser.
         featuredImage:
           type: ImageBlock
           url: /images/285803752_130696692928965_4876662897049002115_n-08560d1c.jpg
