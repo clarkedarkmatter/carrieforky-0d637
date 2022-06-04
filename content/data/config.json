@@ -5,7 +5,7 @@
         "primaryColors": "colors-a",
         "secondaryColors": "colors-a",
         "title": "Carrie For State Representative ",
-        "isTitleVisible": false,
+        "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
