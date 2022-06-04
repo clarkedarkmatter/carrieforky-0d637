@@ -8,7 +8,7 @@ sections:
     title: Carrie Sanders McKeehan
     subtitle: ''
     badge:
-      label: Hope For District 41
+      label: True Hope For District 41
       elementId: ''
       styles:
         self:
