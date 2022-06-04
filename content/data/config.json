@@ -150,7 +150,7 @@
             },
             {
                 "type": "Button",
-                "label": "Join Team Carrie",
+                "label": "Contribute to Carrie",
                 "altText": "",
                 "url": "/join",
                 "showIcon": false,
