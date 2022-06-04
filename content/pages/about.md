@@ -111,19 +111,21 @@ sections:
         icon: arrowRight
     items:
       - answer: >
-          My passion has been focused primarily on education. With
-          [JCPS](https://www.jefferson.kyschools.us/),
-           I work with troubled teens who are removed from the comprehensive 
-          schools, helping to provide support for their next steps. I also
-          serve 
+          Carrie's passion has always been focused on education. With [Jefferson
+          County Public Schools (JCPS)](https://www.jefferson.kyschools.us/), I
+          work with troubled teens who are removed from the comprehensive
+          schools, helping to provide support for their next steps. 
 
-          as an Associate Principal with Pastor Cecil Blye's “[More Grace
-          Christian
+
+          I also serve as an Associate Principal with Pastor Cecil Blye's “[More
+          Grace Christian
           Academy](https://www.trulia.com/schools/KY-louisville-more_grace_christian_academy-5700090973)”,
-           an inner city private school. I was hired to help build a curriculum, 
-          connect the school with the community, build and support a successful 
-
+          an inner city private school. I was hired to help build a curriculum,
+          connect the school with the community, build and support a successful
           faculty and develop systems for student success.
+
+
+          ![](/images/277576841\_111378834860751\_6970880646401486249\_n.jpg)
         question: 'What''s Carrie''s Work History? '
       - question: What Else Is She Involved In?
         answer: >
