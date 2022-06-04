@@ -1,10 +1,3 @@
-import '../css/main.css';
-
-
-export default function MyApp({ Component, pageProps }) {
-    return <Component {...pageProps} />;
-}
-
 import { useEffect } from 'react'
 import { useRouter } from 'next/router'
 
