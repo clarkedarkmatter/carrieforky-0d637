@@ -30,8 +30,11 @@ sections:
           developmental cycle to help our students be more successful.
       - question: How can we better protect our students?
         answer: >
-          **School Safety**: We need student resource officers (SRO's) back in
-          our district. Our children are too important to be left unprotected.
+          We need student resource officers (SRO's) returned to the schools in
+          our district as soon as legislatively possible.
+
+
+          Our children are too important to be left unprotected.
       - question: What about public vs. private schools?
         answer: >
           **School Choice**: Students and parents should have the ability to
