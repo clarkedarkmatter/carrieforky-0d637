@@ -431,10 +431,10 @@ sections:
           - ml-7
           - mr-7
         padding:
-          - pt-9
-          - pb-9
-          - pr-9
-          - pl-9
+          - pt-8
+          - pb-8
+          - pr-8
+          - pl-8
         alignItems: center
         justifyContent: center
         flexDirection: row
