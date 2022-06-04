@@ -10,7 +10,7 @@ export default function MyApp({ Component, pageProps }) {
 }
 
 
-function MyApp({ Component, pageProps }) {
+function MyApp2({ Component, pageProps }) {
   const router = useRouter()
 
   useEffect(() => {
