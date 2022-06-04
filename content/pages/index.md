@@ -391,48 +391,6 @@ sections:
       actions:
         justifyContent: center
     subtitle: Join Carrie at her next meeting
-  - type: RecentPostsSection
-    elementId: ''
-    showDate: false
-    showAuthor: false
-    showExcerpt: true
-    variant: variant-a
-    actions:
-      - type: Button
-        label: View all
-        url: /
-        style: primary
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-20
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: center
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: center
-      actions:
-        justifyContent: center
-    title: On The Campaign Trail
-    subtitle: Find Out What Carrie's Been Working On.
-    colors: colors-f
-    recentCount: 3
   - type: ContactSection
     colors: colors-a
     backgroundSize: inset
@@ -496,6 +454,48 @@ sections:
       styles:
         self:
           opacity: 100
+  - type: RecentPostsSection
+    elementId: ''
+    showDate: false
+    showAuthor: false
+    showExcerpt: true
+    variant: variant-a
+    actions:
+      - type: Button
+        label: View all
+        url: /
+        style: primary
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-20
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: center
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+      actions:
+        justifyContent: center
+    title: On The Campaign Trail
+    subtitle: Find Out What Carrie's Been Working On.
+    colors: colors-f
+    recentCount: 3
 metaTitle: Carrie For State Rep.
 metaDescription: Campaign Home Page For Carrie Sanders McKeehan for State Representative
 socialImage: '/images/On May 17th, (6).png'
