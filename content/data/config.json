@@ -139,17 +139,6 @@
             },
             {
                 "type": "Button",
-                "label": "Join Team Carrie",
-                "altText": "",
-                "url": "/join",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "primary",
-                "elementId": ""
-            },
-            {
-                "type": "Button",
                 "label": "Learn more",
                 "altText": "",
                 "url": "/",
@@ -157,6 +146,17 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Button",
+                "label": "Join Team Carrie",
+                "altText": "",
+                "url": "/join",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
                 "elementId": ""
             }
         ],
