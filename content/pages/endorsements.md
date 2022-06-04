@@ -146,6 +146,15 @@ sections:
         label: Contribute To Carrie
         url: 'https://secure.winred.com/carrie-for-state-representative/donate'
         style: primary
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     backgroundImage: null
     styles:
       self:
