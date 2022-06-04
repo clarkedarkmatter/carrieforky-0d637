@@ -8,13 +8,16 @@ sections:
     items:
       - question: What about spending and inflation?
         answer: >
-          We should be very careful about our government spending right now. 
+          We should be very careful about our government spending right now.
 
 
           Carrie will fight for lower business taxes and lower gas taxes -
-          especially in this period of rapid inflation. I will fight for
+          especially in this period of rapid inflation. She will fight for
           lowering state income tax and pledge to vote against all tax
-          increases. Carrie will support any legislation that will bring good
+          increases. 
+
+
+          Carrie will support any legislation that will bring good
 
           jobs to the 41st District.
       - question: What's an issue we can all rally behind?
