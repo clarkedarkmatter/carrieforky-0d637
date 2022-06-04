@@ -380,7 +380,7 @@ sections:
           altText: Item image
         actions:
           - type: Link
-            label: Learn more
+            label: Request Info
             altText: ''
             url: /
             showIcon: false
