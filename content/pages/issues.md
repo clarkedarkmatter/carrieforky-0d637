@@ -19,13 +19,13 @@ sections:
           jobs to the 41st District.
       - question: What's an issue we can all rally behind?
         answer: >
-          **Investing In Literacy**: Reading is an essential life skill.
-          Literacy should be the top priority for all schools and Carrie will
-          ensure that it is as your State Representative. Studies suggest that
-          If your child cannot read by the 3rd grade, it gets substantially
-          harder for them to be successful in reading later on in life. We need
-          more focus on literacy, earlier in the developmental cycle to help our
-          students be more successful.
+          Reading is an essential life skill. Literacy should be the top
+          priority for all elementary schools and Carrie will ensure that it is
+          as your State Representative. Studies suggest that If your child
+          cannot read by the 3rd grade, it gets substantially harder for them to
+          be successful in reading later on in life. We need more focus on
+          literacy, earlier in the developmental cycle to help our students be
+          more successful.
       - question: How can we better protect our students?
         answer: >
           **School Safety**: We need student resource officers (SRO's) back in
