@@ -91,6 +91,7 @@ sections:
         padding:
           - pt-24
           - pb-36
+          - pl-2
         justifyContent: center
       quote:
         textAlign: center
