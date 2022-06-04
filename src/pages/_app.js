@@ -7,6 +7,7 @@ import * as ga from '/lib/ga'
 
 function MyApp({ Component, pageProps }) {
   const router = useRouter()
+  
     
     return <Component {...pageProps} />;
 }
