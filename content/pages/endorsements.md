@@ -149,7 +149,7 @@ sections:
       - type: Button
         label: Join Team Carrie
         altText: ''
-        url: /
+        url: /join
         showIcon: false
         icon: arrowRight
         iconPosition: right
