@@ -37,20 +37,20 @@ sections:
           Our children are too important to be left unprotected.
       - question: What about public vs. private schools?
         answer: >
-          **School Choice**: Students and parents should have the ability to
-          choose what environment
+          Students and parents should have the ability to choose what
+          environment
 
           and curriculum is conducive for each child’s needs and future goals.
+
+
 
           Being for school choice doesn’t mean that I’m against public schools,
           it
 
-          just means not all students thrive in public schools and options
-          should
+          just means not all students thrive in public schools. Alternative
+          options should
 
-          be available to all students regardless of their social economic
-
-          backgrounds.
+          be available to those students.
       - question: How do you feel about mandatory vaccinations?
         answer: >
           While I encourage all to get the vaccine if they are able, I will
