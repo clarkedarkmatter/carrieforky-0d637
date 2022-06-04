@@ -143,7 +143,7 @@ sections:
       but she needs our help to grow her campaign!
     actions:
       - type: Button
-        label: Join Team Carrie
+        label: Contribute To Carrie
         url: /join
         style: primary
     backgroundImage: null
