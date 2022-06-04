@@ -336,7 +336,7 @@ sections:
             textAlign: center
         actions:
           - type: Link
-            label: Learn more
+            label: Request Info
             altText: ''
             url: /join
             showIcon: false
