@@ -147,7 +147,7 @@ sections:
         url: 'https://secure.winred.com/carrie-for-state-representative/donate'
         style: primary
       - type: Button
-        label: Learn more
+        label: Join Team Carrie
         altText: ''
         url: /
         showIcon: false
