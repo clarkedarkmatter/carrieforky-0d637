@@ -127,7 +127,7 @@ sections:
 
           ![](/images/277576841\_111378834860751\_6970880646401486249\_n.jpg)
         question: 'What''s Carrie''s Work History? '
-      - question: What Else Is She Involved In?
+      - question: What Else Is Carrie Involved In?
         answer: >
           Aside from running for State Representative, Carrie continues to
           volunteer with numerous organizations throughout the city including
