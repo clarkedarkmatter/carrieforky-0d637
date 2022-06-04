@@ -92,6 +92,7 @@ sections:
           - pt-24
           - pb-36
           - pl-2
+          - pr-2
         justifyContent: center
       quote:
         textAlign: center
