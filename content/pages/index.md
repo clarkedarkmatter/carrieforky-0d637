@@ -346,7 +346,7 @@ sections:
             elementId: ''
       - type: FeaturedItem
         elementId: ''
-        title: Meet & Greet and Fundraiser
+        title: Meet & Greet / Fundraiser
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
