@@ -38,9 +38,3 @@ function CustomApp({ Component, pageProps, router }: AppProps) {
 
 
 export default CustomApp;
-
-
-
-export default function MyApp({ Component, pageProps }) {
-    return <Component {...pageProps} />;
-}
