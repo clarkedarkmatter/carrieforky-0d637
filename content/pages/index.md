@@ -378,7 +378,15 @@ sections:
           type: ImageBlock
           url: /images/285803752_130696692928965_4876662897049002115_n-08560d1c.jpg
           altText: Item image
-        actions: []
+        actions:
+          - type: Link
+            label: Learn more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
         styles:
           self:
             textAlign: left
