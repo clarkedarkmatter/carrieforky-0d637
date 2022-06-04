@@ -1,6 +1,6 @@
 import '../css/main.css';
 import { useEffect } from 'react'
-
+import { useRouter } from 'next/router'
 
 
 
