@@ -348,10 +348,10 @@ sections:
         elementId: ''
         title: Meet & Greet / Fundraiser
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Join Carrie at Sol Aztecas Mexican Restaurant for a Meet & Greet and
+          Fundraiser in support of her campaign. Talk to Carrie about your
+          concerns for our community.
         featuredImage:
           type: ImageBlock
           url: /images/221810010_349648836548755_6041693018436572484_n.png
