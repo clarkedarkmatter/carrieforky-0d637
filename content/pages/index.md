@@ -429,7 +429,7 @@ sections:
           - mt-10
           - mb-10
           - ml-7
-          - mr-10
+          - mr-7
         padding:
           - pt-10
           - pb-10
