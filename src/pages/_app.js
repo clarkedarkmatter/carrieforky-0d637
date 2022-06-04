@@ -26,7 +26,7 @@ function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
 }
 
-export default MyApp2
-export default function MyApp2({ Component, pageProps }) {
+export default MyApp
+export default function MyApp({ Component, pageProps }) {
     return <Component {...pageProps} />;
 }
