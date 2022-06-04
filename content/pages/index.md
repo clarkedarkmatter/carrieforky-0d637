@@ -355,7 +355,15 @@ sections:
           type: ImageBlock
           url: /images/221810010_349648836548755_6041693018436572484_n.png
           altText: Item image
-        actions: []
+        actions:
+          - type: Link
+            label: Learn more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
         styles:
           self:
             textAlign: left
