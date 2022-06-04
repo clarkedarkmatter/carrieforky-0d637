@@ -393,7 +393,6 @@ sections:
     subtitle: Join Carrie at her next meeting
   - type: ContactSection
     colors: colors-a
-    backgroundSize: full
     title: Stay In The Race
     text: |
       Enter a mobile number or email to receive updates from the campaign!
