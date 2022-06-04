@@ -152,7 +152,7 @@
                 "type": "Button",
                 "label": "Contribute to Carrie",
                 "altText": "",
-                "url": "/join",
+                "url": "https://secure.winred.com/carrie-for-state-representative/donate",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
