@@ -55,7 +55,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Donate To Carrie",
+                "label": "Contribute To Carrie",
                 "url": "https://secure.winred.com/carrie-for-state-representative/donate",
                 "altText": "Sign up",
                 "style": "primary"
