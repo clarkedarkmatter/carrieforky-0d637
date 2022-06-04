@@ -338,7 +338,7 @@ sections:
           - type: Link
             label: Learn more
             altText: ''
-            url: /
+            url: /join
             showIcon: false
             icon: arrowRight
             iconPosition: right
