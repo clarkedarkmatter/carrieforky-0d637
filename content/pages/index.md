@@ -494,7 +494,7 @@ sections:
         justifyContent: center
     title: On The Campaign Trail
     subtitle: Find Out What Carrie's Been Working On.
-    colors: colors-f
+    colors: colors-a
     recentCount: 3
 metaTitle: Carrie For State Rep.
 metaDescription: Campaign Home Page For Carrie Sanders McKeehan for State Representative
