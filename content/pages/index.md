@@ -329,7 +329,7 @@ sections:
           **9:30 AM EST - June 4**
         featuredImage:
           type: ImageBlock
-          url: /images/apple.svg
+          url: /images/285803752_130696692928965_4876662897049002115_n-2674a061.jpg
           altText: Item image
         styles:
           self:
