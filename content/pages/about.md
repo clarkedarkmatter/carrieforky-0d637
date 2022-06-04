@@ -129,13 +129,16 @@ sections:
         question: 'What''s Carrie''s Work History? '
       - question: What Else Is Carrie Involved In?
         answer: >
-          Aside from running for State Representative, Carrie continues to
-          volunteer with numerous organizations throughout the city including
-          [Sisters for Life](https://www.sisforlife.org/), [Constitutional
+          Aside from running for State Representative and educating in both the
+          private and public sector, Carrie continues to volunteer with numerous
+          organizations throughout the city including [Sisters for
+          Life](https://www.sisforlife.org/), [Constitutional
           Kentucky](https://constitutionalkentucky.com/), and the [American
-          Family Association](https://www.afa.net/). Carrie has served as an
-          event planner for events and fundraisers for each of the groups and
-          served the community through outreach.
+          Family Association](https://www.afa.net/). 
+
+
+          Carrie has served as an event planner for events and fundraisers for
+          each of the groups and served the community through outreach.
     styles:
       self:
         height: auto
