@@ -382,7 +382,7 @@ sections:
           - type: Link
             label: Request Info
             altText: ''
-            url: We
+            url: /join
             showIcon: false
             icon: arrowRight
             iconPosition: right
