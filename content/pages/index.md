@@ -453,6 +453,7 @@ sections:
       styles:
         self:
           opacity: 100
+    backgroundSize: inset
   - type: RecentPostsSection
     elementId: ''
     showDate: false
