@@ -102,7 +102,7 @@ sections:
     colors: colors-a
     elementId: ''
     title: Ask Carrie.
-    subtitle: Got
+    subtitle: Got A Question?
     actions:
       - type: Link
         label: Send A Message
