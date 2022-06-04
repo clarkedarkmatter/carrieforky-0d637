@@ -346,7 +346,7 @@ sections:
             elementId: ''
       - type: FeaturedItem
         elementId: ''
-        title: Item Title
+        title: Meet&
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
