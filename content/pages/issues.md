@@ -53,26 +53,14 @@ sections:
           be available to those students.
       - question: How do you feel about mandatory vaccinations?
         answer: >
-          While I encourage all to get the vaccine if they are able, I will
-          always fight for the freedom to say 'No' to a vaccine.
-
-
-          I’m the only candidate for medical freedom.
+          While I encourage all to get the vaccine if they can, I will always
+          fight for the freedom to say 'No' to a vaccine.
 
 
           I don’t believe governments or businesses should make medical
           decisions that affect you or your family in any way, shape, or form. 
           I believe in true medical freedom - an employer shouldn't be able to
           force a COVID vaccination as a condition of employment.
-
-
-          Read my questions to the candidate questionnaire by KMFC by [clicking
-          here](https://docs.google.com/spreadsheets/d/1iaXySM1giVXCTJ77tb34YyGQ3YdA0CFqfhlIjycDTfQ/htmlview?fbclid=IwAR3uUnXL5vTk3hYRY5Rk0EOhJhFoSSciJVJD2HwH1nZVAjQdk4ueutmoQtU#gid=0).
-          View on KMFC's site @
-          [https://www.kmfc.org/candidates.](https://www.kmfc.org/candidates)
-
-
-          ![](/images/281000194\_125168336815134\_3411034341188653761\_n.jpg)
     styles:
       self:
         height: auto
