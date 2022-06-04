@@ -17,9 +17,10 @@ sections:
         self:
           textAlign: left
     text: >
-      Carrie is a an educator, a mother and community leader. She has designed
-      and written curriculum for schools in our community as well as organized
-      efforts to benefit our community through many local organizations.
+      Carrie is a an educator, a mother and community leader - but she's so much
+      more. She has designed and written curriculum for both private and public
+      school systems. In our community, she's seen as a kind neighbor, an
+      involved mother and a service-oriented leader.
 
 
       Read more in the sections below.
