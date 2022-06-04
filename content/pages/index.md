@@ -320,30 +320,6 @@ sections:
     title: Upcoming Events
     items:
       - type: FeaturedItem
-        title: Weekly Breakfast & Fundraiser
-        text: >
-          Join Carrie and her team EVERY Saturday until the election for a
-          Volunteer Breakfast and Fundraiser.
-
-
-          **9:30 AM EST - June 4**
-        featuredImage:
-          type: ImageBlock
-          url: /images/285803752_130696692928965_4876662897049002115_n-2674a061.jpg
-          altText: Item image
-        styles:
-          self:
-            textAlign: center
-        actions:
-          - type: Link
-            label: Request Info
-            altText: ''
-            url: /join
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
-      - type: FeaturedItem
         elementId: ''
         title: Meet & Greet / Fundraiser
         subtitle: ''
@@ -367,6 +343,30 @@ sections:
         styles:
           self:
             textAlign: left
+      - type: FeaturedItem
+        title: Weekly Breakfast & Fundraiser
+        text: >
+          Join Carrie and her team EVERY Saturday until the election for a
+          Volunteer Breakfast and Fundraiser.
+
+
+          **9:30 AM EST - June 4**
+        featuredImage:
+          type: ImageBlock
+          url: /images/285803752_130696692928965_4876662897049002115_n-2674a061.jpg
+          altText: Item image
+        styles:
+          self:
+            textAlign: center
+        actions:
+          - type: Link
+            label: Request Info
+            altText: ''
+            url: /join
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
     actions: []
     columns: 3
     enableHover: true
