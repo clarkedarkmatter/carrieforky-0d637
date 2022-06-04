@@ -334,16 +334,7 @@ sections:
         styles:
           self:
             textAlign: center
-        actions:
-          - type: Button
-            label: Learn more
-            altText: ''
-            url: /
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
       - type: FeaturedItem
         elementId: ''
         title: Meet & Greet / Fundraiser
