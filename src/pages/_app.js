@@ -6,5 +6,7 @@ import * as ga from '/lib/ga'
 
 
 export default function MyApp({ Component, pageProps }) {
+
+    
     return <Component {...pageProps} />;
 }
