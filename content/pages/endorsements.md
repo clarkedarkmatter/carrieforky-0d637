@@ -144,7 +144,7 @@ sections:
     actions:
       - type: Button
         label: Contribute To Carrie
-        url: /join
+        url: 'https://secure.winred.com/carrie-for-state-representative/donate'
         style: primary
     backgroundImage: null
     styles:
