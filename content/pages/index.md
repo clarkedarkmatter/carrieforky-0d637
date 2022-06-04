@@ -324,9 +324,9 @@ sections:
         title: Meet & Greet / Fundraiser
         subtitle: ''
         text: >+
-          ### Featuring Guest Speaker KY State Rep. Kevin Bratcher! Join Carrie
-          at Sol Aztecas Mexican Restaurant for a Meet & Greet and Fundraiser in
-          support of her campaign.
+          ###### Featuring Guest Speaker KY State Rep. Kevin Bratcher! Join
+          Carrie at Sol Aztecas Mexican Restaurant for a Meet & Greet and
+          Fundraiser in support of her campaign.
 
         featuredImage:
           type: ImageBlock
