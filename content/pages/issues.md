@@ -35,7 +35,7 @@ sections:
 
 
           Our children are too important to be left unprotected.
-      - question: What about education reform?
+      - question: How does Carrie feel about education reform?
         answer: >
           Students and parents should have the ability to choose what
           environment
