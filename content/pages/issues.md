@@ -35,7 +35,7 @@ sections:
 
 
           Our children are too important to be left unprotected.
-      - question: What about public vs. private schools?
+      - question: What about education reform?
         answer: >
           Students and parents should have the ability to choose what
           environment
