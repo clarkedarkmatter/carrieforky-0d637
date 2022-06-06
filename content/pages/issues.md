@@ -51,16 +51,6 @@ sections:
           options should
 
           be available to those students.
-      - question: How do you feel about mandatory vaccinations?
-        answer: >
-          While I encourage all to get the vaccine if they can, I will always
-          fight for the freedom to say 'No' to a vaccine.
-
-
-          I don’t believe governments or businesses should make medical
-          decisions that affect you or your family in any way, shape, or form. 
-          I believe in true medical freedom - an employer shouldn't be able to
-          force a COVID vaccination as a condition of employment.
     styles:
       self:
         height: auto
