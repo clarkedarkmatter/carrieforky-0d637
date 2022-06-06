@@ -17,7 +17,7 @@ sections:
           Carrie will support any legislation that will bring good
 
           jobs to the 41st District.
-      - question: What's an issue we can all rally behind?
+      - question: What's an issue Carrie thinks we can all rally behind?
         answer: >
           Reading is an essential life skill. Literacy should be the top
           priority for all elementary schools and Carrie will ensure that it is
