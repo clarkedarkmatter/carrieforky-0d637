@@ -15,16 +15,6 @@
             },
             {
                 "type": "Link",
-                "label": "Join",
-                "altText": "",
-                "url": "/join",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
                 "label": "Endorsements",
                 "url": "/endorsements",
                 "altText": ""
