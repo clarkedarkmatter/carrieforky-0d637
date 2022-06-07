@@ -114,7 +114,7 @@ sections:
       aspectRatio: '16:9'
       elementId: ''
     subtitle: Hope. Character. Integrity.
-  - colors: colors-e
+  - colors: colors-b
     elementId: ''
     images:
       - type: ImageBlock
