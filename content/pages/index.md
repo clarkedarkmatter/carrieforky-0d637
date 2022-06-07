@@ -13,26 +13,6 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >+
-      *   Carrie Sanders McKeehan loves her **hometown** of Louisville and has
-      the heart for serving others.
-
-
-      <!---->
-
-
-      *   Carrie truly cares about every individual in our community and knows
-      that partisan postering never helps anyone. **Carrie cares about
-      solutions.**
-
-
-      <!---->
-
-
-      *   Carrie can easily achieve **better legislative results** than her
-      incumbent opponent and can \*\*better represent the diverse perspectives
-      in District 41.
-
     actions:
       - type: Button
         label: Join My Team
