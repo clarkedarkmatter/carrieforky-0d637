@@ -78,8 +78,8 @@ sections:
     backgroundSize: inset
     title: Why Is Carrie Running?
     text: >
-      Carrie is **a true servant leader**. Watch the video below to hear more
-      about Carrie and how she'd represent us in Frankfort. 
+      Watch the video below to hear more about Carrie and how she'd represent us
+      in Frankfort.
     badge:
       type: Badge
       styles:
