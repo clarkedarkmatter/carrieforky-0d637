@@ -58,7 +58,6 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: This Is A Feature Title
-    subtitle: The section subtitle
     badge:
       elementId: ''
       styles:
