@@ -157,7 +157,6 @@ sections:
         elementId: ''
     backgroundImage:
       type: ImageBlock
-      url: /images/285492923_130696616262306_3451177072178381179_n.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
