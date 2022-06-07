@@ -163,7 +163,7 @@ sections:
       styles:
         self:
           opacity: 100
-      url: /images/Backgrounds (1).png
+      url: /images/Backgrounds (2).png
     styles:
       self:
         height: auto
