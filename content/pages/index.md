@@ -115,8 +115,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: >-
-        https://www.youtube.com/watch?v=No-H-mBGYYMhttps://www.youtube.com/watch?v=No-H-mBGYYM
+      url: 'https://www.youtube.com/watch?v=No-H-mBGYYM'
       autoplay: false
       loop: false
       muted: false
