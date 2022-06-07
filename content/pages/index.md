@@ -175,7 +175,7 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-    imageSizePx: 271
+    imageSizePx: 164
     type: MediaGallerySection
     title: Featured & Endorsed
   - type: FeaturedPeopleSection
