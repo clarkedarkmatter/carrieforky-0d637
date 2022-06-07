@@ -103,7 +103,7 @@ sections:
     type: QuoteSection
     backgroundImage:
       type: ImageBlock
-      url: /images/Backgrounds (3).png
+      url: /images/Backgrounds (4).png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
