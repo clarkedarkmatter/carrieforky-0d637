@@ -15,14 +15,14 @@
             },
             {
                 "type": "Link",
-                "label": "Endorsements",
-                "url": "/endorsements",
+                "label": "Issues",
+                "url": "/issues",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Issues",
-                "url": "/issues",
+                "label": "Endorsements",
+                "url": "/endorsements",
                 "altText": ""
             },
             {
