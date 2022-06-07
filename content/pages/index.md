@@ -184,7 +184,7 @@ sections:
         textAlign: center
     imageSizePx: 164
     type: MediaGallerySection
-    title: Carrie = Featured & Endorsed
+    title: Featured & Endorsed
   - type: FeaturedPeopleSection
     elementId: ''
     colors: colors-a
