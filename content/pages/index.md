@@ -183,7 +183,7 @@ sections:
     colors: colors-a
     actions:
       - type: Button
-        label: Read carrie's Endorsements
+        label: Read Carrie's Endorsements
         altText: ''
         url: /endorsements
         showIcon: false
