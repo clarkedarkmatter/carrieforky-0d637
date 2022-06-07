@@ -123,13 +123,13 @@ sections:
         altText: Apple
         caption: Apple
       - type: ImageBlock
-        url: /images/index.png
-        altText: Google Play
-        caption: Google Play
-      - type: ImageBlock
         url: /images/283066264_760722338612418_8452629678607617132_n.jpg
         altText: PlayStation
         caption: PlayStation
+      - type: ImageBlock
+        url: /images/index.png
+        altText: Google Play
+        caption: Google Play
       - type: ImageBlock
         altText: Gatsby
         caption: Gatsby
