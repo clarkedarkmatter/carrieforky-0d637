@@ -286,7 +286,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: I'm Ready To Join Team Carrie
+        label: I'm Ready To Help Team Carrie
         altText: ''
         url: /join
         showIcon: false
