@@ -363,7 +363,7 @@ sections:
           label: Email
           hideLabel: false
           placeholder: Your email
-          isRequired: true
+          isRequired: false
           width: full
           type: EmailFormControl
         - type: TextFormControl
