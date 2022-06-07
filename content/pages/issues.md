@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - colors: colors-a
     elementId: ''
-    title: Carrie Cares About Solving Our Biggest Issues
+    title: 'On'
     items:
       - question: What about spending and inflation?
         answer: >
