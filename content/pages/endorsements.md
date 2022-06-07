@@ -157,7 +157,7 @@ sections:
         elementId: ''
     backgroundImage:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/285492923_130696616262306_3451177072178381179_n.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
