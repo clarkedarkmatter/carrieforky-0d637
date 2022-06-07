@@ -60,7 +60,6 @@ sections:
     title: This Is A Feature Title
     subtitle: The section subtitle
     badge:
-      label: This is the badge
       elementId: ''
       styles:
         self:
