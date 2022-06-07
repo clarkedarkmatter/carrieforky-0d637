@@ -57,9 +57,8 @@ sections:
     colors: colors-a
     backgroundSize: inset
     title: Why Is Carrie Running?
-    text: >
-      Watch the video below to hear more about Carrie and how she'd represent us
-      in Frankfort.
+    text: |
+      Watch the video to hear more about Carrie Sanders McKeehan.
     badge:
       type: Badge
       styles:
