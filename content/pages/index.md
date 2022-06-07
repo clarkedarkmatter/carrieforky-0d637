@@ -53,6 +53,69 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: FeatureHighlightSection
+    elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    title: This Is A Feature Title
+    subtitle: The section subtitle
+    badge:
+      label: This is the badge
+      elementId: ''
+      styles:
+        self:
+          textAlign: left
+    text: |-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    actions:
+      - type: Button
+        label: Get Started
+        url: /
+        style: primary
+        elementId: hero-main-button
+      - type: Button
+        label: Learn More
+        url: /
+        style: secondary
+    media:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/hero.png'
+      altText: Hero section image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+        boxShadow: none
+      title:
+        textAlign: left
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - elementId: ''
     colors: colors-a
     backgroundSize: inset
