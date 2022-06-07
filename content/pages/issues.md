@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - colors: colors-a
     elementId: ''
-    title: 'On'
+    title: On The Issues
     items:
       - question: What about spending and inflation?
         answer: >
