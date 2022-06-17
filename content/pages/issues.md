@@ -44,11 +44,7 @@ sections:
           understated.**
       - type: FaqItem
         question: Pro-Business
-        answer: >-
-          At the office, working together is often a distraction, on remote, it
-          could be motivation. At the office, working together is often a
-          distraction, on remote, it could be motivation. At the office, working
-          together is often a distraction, on remote, it could be motivation.
+        answer: "I support small business owners' rights to operate freely without the threat of government interference or shut down due to government mandates. \_\n"
     styles:
       self:
         height: auto
