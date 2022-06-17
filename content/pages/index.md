@@ -65,7 +65,7 @@ sections:
           textAlign: left
     actions:
       - type: Button
-        label: Get Started
+        label: Contribute To Carrie
         url: /
         style: primary
         elementId: hero-main-button
