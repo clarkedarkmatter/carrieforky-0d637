@@ -35,11 +35,13 @@ sections:
         answer: "Our Constitution was written to protect the rights of citizens\\*\\*. As your Representative, I will vote to protect our rights and our Constitution for future generations.\_\\*\\*\n"
       - type: FaqItem
         question: Pro-Education
-        answer: >-
-          At the office, working together is often a distraction, on remote, it
-          could be motivation. At the office, working together is often a
-          distraction, on remote, it could be motivation. At the office, working
-          together is often a distraction, on remote, it could be motivation.
+        answer: >
+          Having worked as a professional educator in both the private and
+          public sector for many years, I deeply understand the importance of
+          children being taught in an environment where more stakeholders have a
+          voice in the decision making process - especially parents. **The
+          importance of a parents' role in their child's education cannot be
+          understated.**
     styles:
       self:
         height: auto
