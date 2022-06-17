@@ -149,7 +149,7 @@ sections:
           "I endorse Carrie for State Rep because she truly
            cares about the future of our great state. She stands up for what is 
           right and will fight to protect our freedoms."
-        name: Johnna Doe
+        name: Bessie James
         title: Product Marketing Manager at Acme
         image:
           url: >-
