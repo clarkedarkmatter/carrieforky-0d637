@@ -12,7 +12,7 @@ sections:
         quote: >
           *"Vote for Republican Carrie Sanders McKeehan in November. She has
           proven to be a beacon of hope for her district."*
-        title: 'Kentucky State Representative '
+        title: 'Kentucky State Representative - District '
         image:
           url: /images/87037664_3336953912986980_5456486109657694208_n.jpg
           altText: Person photo
