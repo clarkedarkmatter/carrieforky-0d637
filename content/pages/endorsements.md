@@ -9,9 +9,9 @@ sections:
     title: Carrie Is Endorsed By Leaders Around Our Community
     testimonials:
       - type: Testimonial
-        quote: >-
-          “It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.”
+        quote: >
+          *"Vote for Republican Carrie Sanders McKeehan in November. She has
+          proven to be a beacon of hope for her district."*
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
