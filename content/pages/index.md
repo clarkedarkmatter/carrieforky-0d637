@@ -57,7 +57,7 @@ sections:
     elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: New Hope For District 41
+    title: New Hope For District 41.
     badge:
       elementId: ''
       styles:
