@@ -10,7 +10,7 @@ sections:
         question: Safer Communities
       - question: A Stronger Economy
         answer: "I will fight for lower business taxes and lower gas taxes.\n I will fight for lowering state income tax and pledge to vote against \nall tax increases. I will support any legislation that will create good \njobs in the 41st District and state wide.\_\n"
-      - question: How can we better protect our students?
+      - question: Better Schools
         answer: >
           We need student resource officers (SRO's) returned to the schools in
           our district as soon as legislatively possible.
