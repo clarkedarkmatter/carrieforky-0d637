@@ -210,7 +210,7 @@ sections:
         fontStyle: normal
         textAlign: center
     name: Dan Seum Jr.
-    title: Candidate for Metro City Counc
+    title: Candidate for Metro City Council
   - type: CtaSection
     elementId: ''
     colors: colors-f
