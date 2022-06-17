@@ -60,7 +60,7 @@ sections:
         justifyContent: flex-start
   - type: TextSection
     elementId: ''
-    colors: colors-e
+    colors: colors-f
     title: Louisville = Home.
     subtitle: ''
     text: >
