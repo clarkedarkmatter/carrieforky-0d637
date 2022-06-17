@@ -6,8 +6,7 @@ sections:
     elementId: ''
     title: On The Issues
     items:
-      - question: What about spending and inflation?
-        answer: >
+      - answer: >
           Carrie will fight for lower business taxes and lower gas taxes -
           especially in this period of rapid inflation. She will fight for
           lowering state income tax and pledge to vote against all tax
