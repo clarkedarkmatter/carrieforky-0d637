@@ -43,7 +43,7 @@ sections:
           importance of a parents' role in their child's education cannot be
           understated.**
       - type: FaqItem
-        question: How is this different from what we have today?
+        question: Pro-Business
         answer: >-
           At the office, working together is often a distraction, on remote, it
           could be motivation. At the office, working together is often a
