@@ -8,7 +8,7 @@ sections:
     items:
       - answer: "I will fight to make our communities safer by supporting all law enforcement agencies.\_\n"
         question: Safer Communities
-      - question: What's an issue Carrie thinks we can all rally behind?
+      - question: Stronger Economy
         answer: >
           Reading is an essential life skill. Literacy should be the top
           priority for all elementary schools and Carrie will ensure that it is
