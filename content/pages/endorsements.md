@@ -14,7 +14,7 @@ sections:
           proven to be a beacon of hope for her district."*
         title: Kentucky State Representative - House District 29
         image:
-          url: /images/87037664_3336953912986980_5456486109657694208_n.jpg
+          url: /images/image1.webp
           altText: Person photo
         elementId: ''
         styles:
