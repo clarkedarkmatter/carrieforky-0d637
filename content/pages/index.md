@@ -237,13 +237,13 @@ sections:
         answer: "I will fight for lower business taxes and lower gas taxes.\n I will fight for lowering state income tax and pledge to vote against \nall tax increases. I will support any legislation that will create good \njobs in the 41st District and state wide.\_\n"
       - question: Better Schools
         answer: >
-          **Investing In Literacy**: Reading is an essential life skill.
-          Literacy should be the top priority
-           for all schools and Carrie will ensure that it is as your State Representative. Studies suggest that If your child cannot read by the 
-          3rd grade, it gets substantially harder for them to be successful in
-          reading later on in life. We need more focus on literacy, earlier in
-          the
-           developmental cycle to help our students be more successful.
+          I  will fight for our children to be safer in schools by supporting
+          onsite
+           School Resource officers and off-duty police officers. I will support 
+          school curriculums that will increase literacy success rates across
+          the 
+
+          board leading to equality for all students.
     styles:
       self:
         height: auto
