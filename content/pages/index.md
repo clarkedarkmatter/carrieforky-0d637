@@ -224,7 +224,7 @@ sections:
     variant: variant-a
   - colors: colors-f
     elementId: ''
-    title: First Priorities - Carrie On The Issues
+    title: First Priorities
     items:
       - question: Safer Communities
         answer: >
