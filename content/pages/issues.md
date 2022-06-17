@@ -30,6 +30,13 @@ sections:
           equal, that they are endowed by their Creator with certain unalienable
           Rights, that among these are Life, Liberty and the pursuit of
           Happiness.”**
+      - type: FaqItem
+        question: How is this different from what we have today?
+        answer: >-
+          At the office, working together is often a distraction, on remote, it
+          could be motivation. At the office, working together is often a
+          distraction, on remote, it could be motivation. At the office, working
+          together is often a distraction, on remote, it could be motivation.
     styles:
       self:
         height: auto
