@@ -152,8 +152,7 @@ sections:
         name: Bessie James
         title: Fellow Church Member and Longtime Friend
         image:
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-person.png
+          url: /images/image2-200e220d.webp
           altText: Person photo
         elementId: ''
         styles:
