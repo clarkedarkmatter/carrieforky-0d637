@@ -57,7 +57,7 @@ sections:
     elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: This Is A Feature Title
+    title: New
     badge:
       elementId: ''
       styles:
