@@ -68,6 +68,7 @@ sections:
         label: Contribute To Carrie
         style: primary
         elementId: hero-main-button
+        url: 'https://secure.winred.com/carrie-for-state-representative/donate'
       - type: Button
         label: Learn More
         url: /
