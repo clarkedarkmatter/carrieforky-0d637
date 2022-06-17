@@ -228,8 +228,8 @@ sections:
     items:
       - question: Safer Communities
         answer: >
-          We need student resource officers (SRO's) back in our district. Our
-          children are too important to be left unprotected.
+          I will fight to make our communities safer by supporting all law
+          enforcement agencies.
 
 
           ![](/images/278571611\_119086514089983\_2838702641208173329\_n.jpg)
