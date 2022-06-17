@@ -226,7 +226,7 @@ sections:
     elementId: ''
     title: First Priorities - Carrie On The Issues
     items:
-      - question: What can we do to keep our kids safe?
+      - question: Safer
         answer: >
           We need student resource officers (SRO's) back in our district. Our
           children are too important to be left unprotected.
