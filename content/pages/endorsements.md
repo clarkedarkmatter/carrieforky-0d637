@@ -145,9 +145,10 @@ sections:
           url: /images/278615549_116572531008048_2445199668254025929_n.jpg
           altText: Photo of Carla Rogers
       - type: Testimonial
-        quote: >-
-          “It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.”
+        quote: |
+          "I endorse Carrie for State Rep because she truly
+           cares about the future of our great state. She stands up for what is 
+          right and will fight to protect our freedoms."
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
