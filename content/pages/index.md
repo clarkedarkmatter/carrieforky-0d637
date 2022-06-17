@@ -233,7 +233,7 @@ sections:
 
 
           ![](/images/278571611\_119086514089983\_2838702641208173329\_n.jpg)
-      - question: What about inflation?
+      - question: Stronger Economy
         answer: >
           Government spending should be within our means. We should be using our
           tax dollars more efficiently, especially during times of inflation.
