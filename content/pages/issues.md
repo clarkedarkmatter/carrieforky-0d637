@@ -33,6 +33,13 @@ sections:
       - type: FaqItem
         question: Pro-Constitution
         answer: "Our Constitution was written to protect the rights of citizens\\*\\*. As your Representative, I will vote to protect our rights and our Constitution for future generations.\_\\*\\*\n"
+      - type: FaqItem
+        question: How is this different from what we have today?
+        answer: >-
+          At the office, working together is often a distraction, on remote, it
+          could be motivation. At the office, working together is often a
+          distraction, on remote, it could be motivation. At the office, working
+          together is often a distraction, on remote, it could be motivation.
     styles:
       self:
         height: auto
