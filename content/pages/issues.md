@@ -32,7 +32,7 @@ sections:
           Happiness.”**
       - type: FaqItem
         question: Pro-Constitution
-        answer: "Our Constitution was written to protect the rights of citizens**. As your Representative I will vote to protect our rights and our Constitution for future generations.\_**\n"
+        answer: "Our Constitution was written to protect the rights of citizens\\*\\*. As your Representative, I will vote to protect our rights and our Constitution for future generations.\_\\*\\*\n"
     styles:
       self:
         height: auto
