@@ -12,11 +12,15 @@ sections:
         answer: "I will fight for lower business taxes and lower gas taxes.\n I will fight for lowering state income tax and pledge to vote against \nall tax increases. I will support any legislation that will create good \njobs in the 41st District and state wide.\_\n"
       - question: Better Schools
         answer: >
-          We need student resource officers (SRO's) returned to the schools in
-          our district as soon as legislatively possible.
+          I will fight for our children to be safer in schools by supporting
+          onsite
 
+          School Resource officers and off-duty police officers. I will support 
 
-          Our children are too important to be left unprotected.
+          school curriculums that will increase literacy success rates across
+          the 
+
+          board leading to equality for all students.
       - question: How does Carrie feel about education reform?
         answer: >
           Students and parents should have the ability to choose what
