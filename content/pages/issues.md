@@ -16,6 +16,7 @@ sections:
           Carrie will support any legislation that will bring good
 
           jobs to the 41st District.
+        question: Safer Communities
       - question: What's an issue Carrie thinks we can all rally behind?
         answer: >
           Reading is an essential life skill. Literacy should be the top
