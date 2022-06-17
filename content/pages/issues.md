@@ -9,16 +9,7 @@ sections:
       - answer: "I will fight to make our communities safer by supporting all law enforcement agencies.\_\n"
         question: Safer Communities
       - question: A Stronger Economy
-        answer: >
-          Reading is an essential life skill. Literacy should be the top
-          priority for all elementary schools and Carrie will ensure that it is
-          as your State Representative. 
-
-
-          Studies suggest that If your child cannot read by the 3rd grade, it
-          gets substantially harder for them to be successful in reading later
-          on in life. We need more focus on literacy, earlier in the
-          developmental cycle to help our students be more successful.
+        answer: "I will fight for lower business taxes and lower gas taxes.\n I will fight for lowering state income tax and pledge to vote against \nall tax increases. I will support any legislation that will create good \njobs in the 41st District and state wide.\_\n"
       - question: How can we better protect our students?
         answer: >
           We need student resource officers (SRO's) returned to the schools in
