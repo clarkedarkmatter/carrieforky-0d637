@@ -32,7 +32,7 @@ sections:
     media:
       type: ImageBlock
       altText: Hero image
-      url: /images/242499081_4260379027343947_1488516747194251273_n.jpg
+      url: /images/279706158_524592799415896_6564291894402997284_n.webp
     styles:
       self:
         height: auto
