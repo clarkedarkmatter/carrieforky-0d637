@@ -150,7 +150,7 @@ sections:
            cares about the future of our great state. She stands up for what is 
           right and will fight to protect our freedoms."
         name: Bessie James
-        title: Product Marketing Manager at Acme
+        title: Fellow Church Member
         image:
           url: >-
             https://assets.stackbit.com/components/images/default/default-person.png
