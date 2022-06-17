@@ -42,6 +42,13 @@ sections:
           voice in the decision making process - especially parents. **The
           importance of a parents' role in their child's education cannot be
           understated.**
+      - type: FaqItem
+        question: How is this different from what we have today?
+        answer: >-
+          At the office, working together is often a distraction, on remote, it
+          could be motivation. At the office, working together is often a
+          distraction, on remote, it could be motivation. At the office, working
+          together is often a distraction, on remote, it could be motivation.
     styles:
       self:
         height: auto
