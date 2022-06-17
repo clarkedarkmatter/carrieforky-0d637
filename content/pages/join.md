@@ -74,7 +74,7 @@ sections:
           placeholder: Write your message here
           isRequired: false
           width: full
-      submitLabel: Send Message
+      submitLabel: Submit
     media:
       type: ImageBlock
       url: /images/Carie-Marie-profile-pic-2.jpg
