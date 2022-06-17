@@ -66,7 +66,6 @@ sections:
     actions:
       - type: Button
         label: Contribute To Carrie
-        url: /
         style: primary
         elementId: hero-main-button
       - type: Button
