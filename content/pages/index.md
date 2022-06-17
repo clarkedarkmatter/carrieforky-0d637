@@ -234,16 +234,7 @@ sections:
 
           ![](/images/278571611\_119086514089983\_2838702641208173329\_n.jpg)
       - question: Stronger Economy
-        answer: >
-          Government spending should be within our means. We should be using our
-          tax dollars more efficiently, especially during times of inflation.
-
-
-          Carrie will fight for lower business taxes and lower gas taxes -
-          especially in this period of rapid inflation. I will fight for
-          lowering state income tax and pledge to vote against all tax
-          increases. Carrie will support any legislation that will bring good
-          jobs to the 41st District.
+        answer: "I will fight for lower business taxes and lower gas taxes.\n I will fight for lowering state income tax and pledge to vote against \nall tax increases. I will support any legislation that will create good \njobs in the 41st District and state wide.\_\n"
       - question: What's an issue we can ALL agree on?
         answer: >
           **Investing In Literacy**: Reading is an essential life skill.
