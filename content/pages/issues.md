@@ -21,21 +21,7 @@ sections:
           the 
 
           board leading to equality for all students.
-      - answer: >
-          Students and parents should have the ability to choose what
-          environment
-
-          and curriculum is conducive for each child’s needs and future goals.
-
-
-
-          Being for school choice doesn’t mean that I’m against public schools,
-          it
-
-          just means not all students thrive in public schools. Alternative
-          options should
-
-          be available to those students.
+      - answer: "I will fight to preserve our individual state rights and oppose all federal government overreach efforts that may affect our local communities negatively.\_ I will support all legislation that opposes mandates that cripple our economy, education systems, and religious freedoms.\n"
     styles:
       self:
         height: auto
