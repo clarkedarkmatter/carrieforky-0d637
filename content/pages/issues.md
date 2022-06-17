@@ -25,11 +25,11 @@ sections:
         question: A Limited Government
       - type: FaqItem
         question: Pro-Liberty
-        answer: >-
-          At the office, working together is often a distraction, on remote, it
-          could be motivation. At the office, working together is often a
-          distraction, on remote, it could be motivation. At the office, working
-          together is often a distraction, on remote, it could be motivation.
+        answer: >
+          **“We hold these truths to be self-evident, that all men are created
+          equal, that they are endowed by their Creator with certain unalienable
+          Rights, that among these are Life, Liberty and the pursuit of
+          Happiness.”**
     styles:
       self:
         height: auto
