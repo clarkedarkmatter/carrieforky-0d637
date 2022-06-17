@@ -71,7 +71,7 @@ sections:
         url: 'https://secure.winred.com/carrie-for-state-representative/donate'
       - type: Button
         label: Learn More
-        url: /
+        url: /about
         style: secondary
     styles:
       self:
