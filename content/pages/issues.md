@@ -31,7 +31,7 @@ sections:
           Rights, that among these are Life, Liberty and the pursuit of
           Happiness.”**
       - type: FaqItem
-        question: How is this different from what we have today?
+        question: Pro-Constitution
         answer: >-
           At the office, working together is often a distraction, on remote, it
           could be motivation. At the office, working together is often a
