@@ -210,7 +210,7 @@ sections:
         fontWeight: 400
         fontStyle: normal
         textAlign: center
-    name: Dan Seum
+    name: Dan Seum Jr.
   - type: CtaSection
     elementId: ''
     colors: colors-f
