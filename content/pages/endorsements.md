@@ -150,7 +150,7 @@ sections:
            cares about the future of our great state. She stands up for what is 
           right and will fight to protect our freedoms."
         name: Bessie James
-        title: Fellow Church Member
+        title: Fellow Church Member and Longtime Friend
         image:
           url: >-
             https://assets.stackbit.com/components/images/default/default-person.png
