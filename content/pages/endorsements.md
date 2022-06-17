@@ -24,6 +24,7 @@ sections:
           title:
             fontWeight: 400
             fontStyle: normal
+        name: Kevin Bratcher
       - type: Testimonial
         quote: >+
           ### "I wholly and wholeheartedly endorse Carrie's candidacy. She is a
