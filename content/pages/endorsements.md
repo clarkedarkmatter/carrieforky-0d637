@@ -9,6 +9,24 @@ sections:
     title: Carrie Is Endorsed By Leaders Around Our Community
     testimonials:
       - type: Testimonial
+        quote: >-
+          “It’s great to see someone taking action while still maintaining a
+          sustainable fish supply to home cooks.”
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-person.png
+          altText: Person photo
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+            fontStyle: normal
+          title:
+            fontWeight: 400
+            fontStyle: normal
+      - type: Testimonial
         quote: >+
           ### "I wholly and wholeheartedly endorse Carrie's candidacy. She is a
           brilliant problem solver and leader.
