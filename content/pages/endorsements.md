@@ -180,9 +180,8 @@ sections:
   - type: QuoteSection
     elementId: ''
     colors: colors-c
-    quote: |-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
+    quote: |
+      "Please support Carrie If you live in House District 41!"
     backgroundImage: null
     styles:
       self:
