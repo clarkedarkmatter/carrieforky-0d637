@@ -179,7 +179,7 @@ sections:
         textAlign: center
   - type: QuoteSection
     elementId: ''
-    colors: colors-c
+    colors: colors-e
     quote: |
       "Please support Carrie If you live in House District 41!"
     backgroundImage: null
