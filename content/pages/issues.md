@@ -23,6 +23,13 @@ sections:
           board leading to equality for all students.
       - answer: "I will fight to preserve our individual state rights and oppose all federal government overreach efforts that may affect our local communities negatively.\_ I will support all legislation that opposes mandates that cripple our economy, education systems, and religious freedoms.\n"
         question: A Limited Government
+      - type: FaqItem
+        question: How is this different from what we have today?
+        answer: >-
+          At the office, working together is often a distraction, on remote, it
+          could be motivation. At the office, working together is often a
+          distraction, on remote, it could be motivation. At the office, working
+          together is often a distraction, on remote, it could be motivation.
     styles:
       self:
         height: auto
