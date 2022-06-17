@@ -245,7 +245,7 @@ sections:
 
           board leading to equality for all students.
       - type: FaqItem
-        question: How is this different from what we have today?
+        question: Limited Government
         answer: >-
           At the office, working together is often a distraction, on remote, it
           could be motivation. At the office, working together is often a
