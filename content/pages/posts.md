@@ -9,7 +9,7 @@ sections:
     showDate: false
     showAuthor: false
     showExcerpt: false
-    variant: variant-a
+    variant: variant-c
     actions:
       - type: Button
         label: View all
