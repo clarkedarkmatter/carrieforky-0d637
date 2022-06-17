@@ -22,6 +22,7 @@ sections:
 
           board leading to equality for all students.
       - answer: "I will fight to preserve our individual state rights and oppose all federal government overreach efforts that may affect our local communities negatively.\_ I will support all legislation that opposes mandates that cripple our economy, education systems, and religious freedoms.\n"
+        question: Limited Government
     styles:
       self:
         height: auto
