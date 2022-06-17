@@ -6,16 +6,7 @@ sections:
     elementId: ''
     title: On The Issues
     items:
-      - answer: >
-          Carrie will fight for lower business taxes and lower gas taxes -
-          especially in this period of rapid inflation. She will fight for
-          lowering state income tax and pledge to vote against all tax
-          increases.
-
-
-          Carrie will support any legislation that will bring good
-
-          jobs to the 41st District.
+      - answer: "I will fight to make our communities safer by supporting all law enforcement agencies.\_\n"
         question: Safer Communities
       - question: What's an issue Carrie thinks we can all rally behind?
         answer: >
